@@ -59,7 +59,7 @@ vspeed = 0
         </arguments>
       </action>
     </event>
-    <event eventtype="2" ename="Knuckles">
+    <event eventtype="2" enumb="4">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -255,7 +255,7 @@ with (EggB2_MSonic)
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="461">
+    <event eventtype="4" ename="EggB2_MSonic">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -350,7 +350,7 @@ with (EggB2_MSonic)
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="117">
+    <event eventtype="4" ename="DangerIcon">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -379,15 +379,15 @@ with (EggB2_MSonic)
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>0</PhysicsObjectShape>
   <PhysicsObjectDensity>0.5</PhysicsObjectDensity>
-  <PhysicsObjectRestitution>0.1</PhysicsObjectRestitution>
+  <PhysicsObjectRestitution>0.100000001490116</PhysicsObjectRestitution>
   <PhysicsObjectGroup>0</PhysicsObjectGroup>
-  <PhysicsObjectLinearDamping>0.1</PhysicsObjectLinearDamping>
-  <PhysicsObjectAngularDamping>0.1</PhysicsObjectAngularDamping>
-  <PhysicsObjectFriction>0.2</PhysicsObjectFriction>
+  <PhysicsObjectLinearDamping>0.100000001490116</PhysicsObjectLinearDamping>
+  <PhysicsObjectAngularDamping>0.100000001490116</PhysicsObjectAngularDamping>
+  <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <points>0,0</points>
-    <points>15,15</points>
+    <point>0,0</point>
+    <point>15,15</point>
   </PhysicsShapePoints>
 </object>

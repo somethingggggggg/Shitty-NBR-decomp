@@ -42,8 +42,7 @@ if (global.Active_Hero == 5)
         Grav = 1
         Handle = 0
     }
-}
-</code>
+}</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>0</clearViewBackground>
   <clearDisplayBuffer>0</clearDisplayBuffer>
@@ -64,73 +63,73 @@ if (global.Active_Hero == 5)
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="0" foreground="-1" name="backBlack" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backEggB_Back" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="-1" name="backRed" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="-1" name="backBlack" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="-1" name="backBlack" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="backEggB_Back" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="-1" name="backRed" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="-1" name="backBlack" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="-1" objName="Pers_Obj" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
+    <view visible="-1" objName="Pers_Obj" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="EggB1_BackBots1" x="960" y="288" name="inst_1AE4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots1" x="1536" y="272" name="inst_1AE4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots1" x="2432" y="320" name="inst_1AE4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots2" x="2304" y="370" name="inst_1AE4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots2" x="3040" y="370" name="inst_1AE4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots2" x="1344" y="370" name="inst_1AE4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots2" x="1088" y="370" name="inst_1AE50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots2" x="352" y="370" name="inst_1AE51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots3" x="448" y="308" name="inst_1AE52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots3" x="1376" y="332" name="inst_1AE53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots3" x="1952" y="296" name="inst_1AE54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots3" x="2816" y="302" name="inst_1AE55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_BackBots3" x="3392" y="300" name="inst_1AE56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="128" y="448" name="inst_1AE57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="384" y="448" name="inst_1AE58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="640" y="448" name="inst_1AE59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="896" y="448" name="inst_1AE5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="1152" y="448" name="inst_1AE5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="1408" y="448" name="inst_1AE5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="1664" y="448" name="inst_1AE5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="1920" y="448" name="inst_1AE5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="2176" y="448" name="inst_1AE5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="2432" y="448" name="inst_1AE60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="2688" y="448" name="inst_1AE61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="2944" y="448" name="inst_1AE62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="3200" y="448" name="inst_1AE63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="3456" y="448" name="inst_1AE64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="3712" y="448" name="inst_1AE65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="3968" y="448" name="inst_1AE66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="4224" y="448" name="inst_1AE67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="4480" y="448" name="inst_1AE68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="4736" y="448" name="inst_1AE69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="4992" y="448" name="inst_1AE6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="5248" y="448" name="inst_1AE6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB_Ground" x="5376" y="448" name="inst_1AE6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_RoboBee" x="704" y="336" name="inst_1AE6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_MetalTraining" x="1152" y="368" name="inst_1AE6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_SonicGologram" x="1216" y="366" name="inst_1AE6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="EggB1_Shower" x="1264" y="372" name="inst_1AE70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
+    <instance objName="EggB1_BackBots1" x="960" y="288" name="inst_1AE4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots1" x="1536" y="272" name="inst_1AE4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots1" x="2432" y="320" name="inst_1AE4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots2" x="2304" y="370" name="inst_1AE4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots2" x="3040" y="370" name="inst_1AE4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots2" x="1344" y="370" name="inst_1AE4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots2" x="1088" y="370" name="inst_1AE50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots2" x="352" y="370" name="inst_1AE51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots3" x="448" y="308" name="inst_1AE52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots3" x="1376" y="332" name="inst_1AE53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots3" x="1952" y="296" name="inst_1AE54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots3" x="2816" y="302" name="inst_1AE55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_BackBots3" x="3392" y="300" name="inst_1AE56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="128" y="448" name="inst_1AE57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="384" y="448" name="inst_1AE58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="640" y="448" name="inst_1AE59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="896" y="448" name="inst_1AE5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="1152" y="448" name="inst_1AE5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="1408" y="448" name="inst_1AE5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="1664" y="448" name="inst_1AE5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="1920" y="448" name="inst_1AE5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="2176" y="448" name="inst_1AE5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="2432" y="448" name="inst_1AE60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="2688" y="448" name="inst_1AE61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="2944" y="448" name="inst_1AE62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="3200" y="448" name="inst_1AE63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="3456" y="448" name="inst_1AE64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="3712" y="448" name="inst_1AE65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="3968" y="448" name="inst_1AE66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="4224" y="448" name="inst_1AE67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="4480" y="448" name="inst_1AE68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="4736" y="448" name="inst_1AE69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="4992" y="448" name="inst_1AE6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="5248" y="448" name="inst_1AE6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB_Ground" x="5376" y="448" name="inst_1AE6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_RoboBee" x="704" y="336" name="inst_1AE6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_MetalTraining" x="1152" y="368" name="inst_1AE6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_SonicGologram" x="1216" y="366" name="inst_1AE6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="EggB1_Shower" x="1264" y="372" name="inst_1AE70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
-  <tiles />
-  <PhysicsWorld>false</PhysicsWorld>
+  <tiles/>
+  <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
   <PhysicsWorldRight>640</PhysicsWorldRight>
   <PhysicsWorldBottom>480</PhysicsWorldBottom>
   <PhysicsWorldGravityX>0</PhysicsWorldGravityX>
   <PhysicsWorldGravityY>10</PhysicsWorldGravityY>
-  <PhysicsWorldPixToMeters>0.1</PhysicsWorldPixToMeters>
+  <PhysicsWorldPixToMeters>0.100000001490116</PhysicsWorldPixToMeters>
 </room>

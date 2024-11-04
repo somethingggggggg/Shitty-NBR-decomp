@@ -81,7 +81,7 @@ alarm[1] = 5
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="155">
+    <event eventtype="4" ename="MS_3">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -111,7 +111,7 @@ else if ((global.Data_Eggman == 1) &amp;&amp; keyboard_check_pressed(vk_return))
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="154">
+    <event eventtype="4" ename="MS_2">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -141,7 +141,7 @@ else if ((global.Data_Knuckles == 1) &amp;&amp; keyboard_check_pressed(vk_return
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="153">
+    <event eventtype="4" ename="MS_1">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -226,15 +226,15 @@ audio_play_sound(SFX_DataMove, 0, false)
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>0</PhysicsObjectShape>
   <PhysicsObjectDensity>0.5</PhysicsObjectDensity>
-  <PhysicsObjectRestitution>0.1</PhysicsObjectRestitution>
+  <PhysicsObjectRestitution>0.100000001490116</PhysicsObjectRestitution>
   <PhysicsObjectGroup>0</PhysicsObjectGroup>
-  <PhysicsObjectLinearDamping>0.1</PhysicsObjectLinearDamping>
-  <PhysicsObjectAngularDamping>0.1</PhysicsObjectAngularDamping>
-  <PhysicsObjectFriction>0.2</PhysicsObjectFriction>
+  <PhysicsObjectLinearDamping>0.100000001490116</PhysicsObjectLinearDamping>
+  <PhysicsObjectAngularDamping>0.100000001490116</PhysicsObjectAngularDamping>
+  <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <points>-42,-94</points>
-    <points>16,16</points>
+    <point>-42,-94</point>
+    <point>16,16</point>
   </PhysicsShapePoints>
 </object>

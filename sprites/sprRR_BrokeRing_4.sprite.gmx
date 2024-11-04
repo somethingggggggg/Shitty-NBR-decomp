@@ -5,7 +5,7 @@
   <yorigin>47</yorigin>
   <colkind>2</colkind>
   <coltolerance>0</coltolerance>
-  <sepmasks>1</sepmasks>
+  <sepmasks>-1</sepmasks>
   <bboxmode>2</bboxmode>
   <bbox_left>25</bbox_left>
   <bbox_right>70</bbox_right>

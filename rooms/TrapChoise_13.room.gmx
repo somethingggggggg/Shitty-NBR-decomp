@@ -49,8 +49,7 @@ if (GOD_OBJECT.TC_SavePoint == 1)
     instance_create(4735, 860, TC_ExetiorChaser)
     global.vel = 8
     view_object[0] = Pers_Obj
-}
-</code>
+}</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>0</clearViewBackground>
   <clearDisplayBuffer>0</clearDisplayBuffer>
@@ -71,549 +70,549 @@ if (GOD_OBJECT.TC_SavePoint == 1)
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backTC_Back" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="backTC_Back" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="-1" objName="TC_WarpRing" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
+    <view visible="-1" objName="TC_WarpRing" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="TailsLive" x="3405" y="900" name="inst_19D7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="20" y="320" name="inst_19D7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="145" y="320" name="inst_19D7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="275" y="320" name="inst_19D80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="405" y="320" name="inst_19D81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="530" y="320" name="inst_19D82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="650" y="320" name="inst_19D83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1480" y="510" name="inst_19D84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1600" y="550" name="inst_19D85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1735" y="610" name="inst_19D86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1840" y="700" name="inst_19D87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1960" y="700" name="inst_19D88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="2100" y="700" name="inst_19D89" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="2210" y="700" name="inst_19D8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="2340" y="700" name="inst_19D8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="2475" y="760" name="inst_19D8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1010" y="180" name="inst_19D8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1010" y="50" name="inst_19D8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1010" y="310" name="inst_19D8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="-270" />
-    <instance objName="TC_Ground" x="1010" y="-10" name="inst_19D90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1010" y="440" name="inst_19D91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="-270" />
-    <instance objName="TC_Ground" x="1010" y="570" name="inst_19D92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1010" y="700" name="inst_19D93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1010" y="830" name="inst_19D94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="780" y="820" name="inst_19D95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="650" y="760" name="inst_19D96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="530" y="760" name="inst_19D97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="400" y="840" name="inst_19D98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="20" y="850" name="inst_19D99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="160" y="1070" name="inst_19D9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="160" y="1200" name="inst_19D9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="160" y="1330" name="inst_19D9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="255" y="1330" name="inst_19D9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="385" y="1330" name="inst_19D9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="510" y="1330" name="inst_19D9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="630" y="1330" name="inst_19DA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="755" y="1260" name="inst_19DA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="860" y="1200" name="inst_19DA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="990" y="1200" name="inst_19DA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1110" y="1200" name="inst_19DA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1230" y="1200" name="inst_19DA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1350" y="1200" name="inst_19DA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="1480" y="640" name="inst_19DA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1480" y="770" name="inst_19DA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1480" y="900" name="inst_19DA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1480" y="1030" name="inst_19DAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1480" y="1160" name="inst_19DAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1480" y="1290" name="inst_19DAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="1480" y="1420" name="inst_19DAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2605" y="760" name="inst_19DAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="2730" y="810" name="inst_19DAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="2785" y="810" name="inst_19DB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3040" y="370" name="inst_19DB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="2920" y="520" name="inst_19DB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2920" y="530" name="inst_19DB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2920" y="660" name="inst_19DB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2920" y="790" name="inst_19DB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="3160" y="370" name="inst_19DB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3280" y="370" name="inst_19DB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3400" y="370" name="inst_19DB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3520" y="370" name="inst_19DB9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3640" y="370" name="inst_19DBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3760" y="460" name="inst_19DBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3880" y="540" name="inst_19DBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4000" y="610" name="inst_19DBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4010" y="960" name="inst_19DBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4130" y="960" name="inst_19DBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4250" y="960" name="inst_19DC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3890" y="960" name="inst_19DC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3770" y="960" name="inst_19DC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3650" y="960" name="inst_19DC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3530" y="960" name="inst_19DC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="3530" y="830" name="inst_19DC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="3410" y="760" name="inst_19DC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3290" y="760" name="inst_19DC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3290" y="880" name="inst_19DC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="3290" y="1010" name="inst_19DC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2920" y="1280" name="inst_19DCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3040" y="1280" name="inst_19DCB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3160" y="1280" name="inst_19DCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3280" y="1350" name="inst_19DCD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3400" y="1350" name="inst_19DCE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3520" y="1350" name="inst_19DCF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3640" y="1350" name="inst_19DD0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3760" y="1420" name="inst_19DD1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="3880" y="1420" name="inst_19DD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4000" y="1420" name="inst_19DD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4120" y="1420" name="inst_19DD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4240" y="1420" name="inst_19DD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4360" y="1420" name="inst_19DD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4370" y="960" name="inst_19DD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4490" y="960" name="inst_19DD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4610" y="960" name="inst_19DD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4730" y="960" name="inst_19DDA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4850" y="960" name="inst_19DDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4970" y="960" name="inst_19DDC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4310" y="910" name="inst_19DDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="780" name="inst_19DDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="650" name="inst_19DDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="520" name="inst_19DE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="390" name="inst_19DE1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="260" name="inst_19DE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="130" name="inst_19DE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="0" name="inst_19DE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4430" y="0" name="inst_19DE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4550" y="0" name="inst_19DE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4670" y="0" name="inst_19DE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4790" y="0" name="inst_19DE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4910" y="0" name="inst_19DE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="5020" y="0" name="inst_19DEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4600" y="1090" name="inst_19DEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4600" y="1220" name="inst_19DEC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4600" y="1350" name="inst_19DED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="1080" name="inst_19DEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4310" y="1220" name="inst_19DEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4480" y="1420" name="inst_19DF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="4310" y="1090" name="inst_19DF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="4600" y="1480" name="inst_19DF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2920" y="920" name="inst_19DF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2920" y="1050" name="inst_19DF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2920" y="1180" name="inst_19DF5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="2920" y="370" name="inst_19DF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="160" y="940" name="inst_19DF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="145" y="850" name="inst_19DF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="910" y="820" name="inst_19DF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="2920" y="500" name="inst_19DFA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="RF_13" x="5" y="10" name="inst_19DFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Spring" x="4515" y="1330" name="inst_19DFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="RF_13" x="25" y="10" name="inst_19DFD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="5100" y="960" name="inst_19DFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="5230" y="960" name="inst_19DFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="5360" y="960" name="inst_19E00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="5490" y="960" name="inst_19E01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="5620" y="960" name="inst_19E02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="5750" y="960" name="inst_19E03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="5880" y="960" name="inst_19E04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="6010" y="960" name="inst_19E05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="6145" y="900" name="inst_19E06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="6280" y="840" name="inst_19E07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="6410" y="840" name="inst_19E08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="6540" y="840" name="inst_19E09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="6665" y="840" name="inst_19E0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="6795" y="840" name="inst_19E0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="6925" y="840" name="inst_19E0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="7055" y="840" name="inst_19E0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="7190" y="910" name="inst_19E0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="7320" y="1000" name="inst_19E0F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="7455" y="1070" name="inst_19E10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="7585" y="1120" name="inst_19E11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="7715" y="1120" name="inst_19E12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="7845" y="1120" name="inst_19E13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="7975" y="1120" name="inst_19E14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8105" y="1120" name="inst_19E15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8495" y="1120" name="inst_19E16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8625" y="1120" name="inst_19E17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8755" y="1120" name="inst_19E18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8885" y="1120" name="inst_19E19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9010" y="1120" name="inst_19E1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9140" y="1120" name="inst_19E1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9270" y="1120" name="inst_19E1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9400" y="1120" name="inst_19E1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9530" y="1120" name="inst_19E1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9665" y="1220" name="inst_19E1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9795" y="1220" name="inst_19E20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9920" y="1220" name="inst_19E21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8235" y="1420" name="inst_19E22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8365" y="1420" name="inst_19E23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8490" y="1420" name="inst_19E24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8620" y="1420" name="inst_19E25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8750" y="1420" name="inst_19E26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8875" y="1420" name="inst_19E27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9005" y="1420" name="inst_19E28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="8120" y="1240" name="inst_19E29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="8120" y="1370" name="inst_19E2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="8120" y="1500" name="inst_19E2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="9135" y="1460" name="inst_19E2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9265" y="1460" name="inst_19E2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9390" y="1460" name="inst_19E2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9520" y="1460" name="inst_19E2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9650" y="1460" name="inst_19E30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9775" y="1460" name="inst_19E31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="9905" y="1460" name="inst_19E32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10035" y="1460" name="inst_19E33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10160" y="1460" name="inst_19E34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10045" y="1220" name="inst_19E35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10060" y="1100" name="inst_19E36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="10060" y="970" name="inst_19E37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="10180" y="910" name="inst_19E38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10310" y="910" name="inst_19E39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10435" y="910" name="inst_19E3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10565" y="910" name="inst_19E3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10695" y="960" name="inst_19E3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10825" y="1010" name="inst_19E3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="10955" y="1250" name="inst_19E3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10825" y="1140" name="inst_19E3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="10825" y="1250" name="inst_19E40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10290" y="1540" name="inst_19E41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11080" y="1250" name="inst_19E42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11205" y="1250" name="inst_19E43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11335" y="1250" name="inst_19E44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11460" y="1250" name="inst_19E45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11590" y="1180" name="inst_19E46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11720" y="1180" name="inst_19E47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11845" y="1180" name="inst_19E48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11975" y="1120" name="inst_19E49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="12100" y="1120" name="inst_19E4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10415" y="1540" name="inst_19E4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10545" y="1540" name="inst_19E4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10670" y="1540" name="inst_19E4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10800" y="1540" name="inst_19E4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10930" y="1540" name="inst_19E4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11060" y="1540" name="inst_19E50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11190" y="1540" name="inst_19E51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11320" y="1540" name="inst_19E52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="11315" y="1420" name="inst_19E53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="11315" y="1290" name="inst_19E54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="11325" y="640" name="inst_19E55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="11325" y="510" name="inst_19E56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="11325" y="380" name="inst_19E57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="11325" y="250" name="inst_19E58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="12225" y="1120" name="inst_19E59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="12350" y="1120" name="inst_19E5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="12475" y="1040" name="inst_19E5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="12600" y="1040" name="inst_19E5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="12725" y="1040" name="inst_19E5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="12985" y="1040" name="inst_19E5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="13115" y="1040" name="inst_19E5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="13245" y="1040" name="inst_19E60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="13375" y="1040" name="inst_19E61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="12855" y="1120" name="inst_19E62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="13505" y="1130" name="inst_19E63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="13635" y="1040" name="inst_19E64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="13760" y="1040" name="inst_19E65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="13890" y="1040" name="inst_19E66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14015" y="1040" name="inst_19E67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14145" y="970" name="inst_19E68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14275" y="970" name="inst_19E69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14400" y="970" name="inst_19E6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14525" y="970" name="inst_19E6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14650" y="970" name="inst_19E6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14775" y="970" name="inst_19E6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14775" y="850" name="inst_19E6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="14775" y="720" name="inst_19E6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="14775" y="610" name="inst_19E70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="14905" y="610" name="inst_19E71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="15035" y="610" name="inst_19E72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="15165" y="610" name="inst_19E73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="15290" y="610" name="inst_19E74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="15415" y="610" name="inst_19E75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="15545" y="520" name="inst_19E76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="15675" y="470" name="inst_19E77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="15800" y="420" name="inst_19E78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="15930" y="420" name="inst_19E79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="16055" y="420" name="inst_19E7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="16185" y="420" name="inst_19E7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="16310" y="420" name="inst_19E7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="16440" y="510" name="inst_19E7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="16570" y="610" name="inst_19E7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="16700" y="710" name="inst_19E7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="16830" y="810" name="inst_19E80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="16960" y="810" name="inst_19E81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17090" y="810" name="inst_19E82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17220" y="810" name="inst_19E83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17345" y="810" name="inst_19E84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17475" y="810" name="inst_19E85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17600" y="810" name="inst_19E86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17730" y="810" name="inst_19E87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17860" y="810" name="inst_19E88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17995" y="710" name="inst_19E89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="17995" y="580" name="inst_19E8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="17995" y="450" name="inst_19E8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="17995" y="320" name="inst_19E8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="17995" y="190" name="inst_19E8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Spring" x="11180" y="1450" name="inst_19E8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Spring" x="14690" y="880" name="inst_19E8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="10525" y="1420" name="inst_19E90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="6660" y="720" name="inst_19E91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_TrapRing2" x="6375" y="760" name="inst_19E92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="6660" y="550" name="inst_19E93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="6800" y="750" name="inst_19E94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7040" y="750" name="inst_19E95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7305" y="920" name="inst_19E96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7520" y="990" name="inst_19E97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7780" y="1000" name="inst_19E98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7990" y="890" name="inst_19E99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7705" y="830" name="inst_19E9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8135" y="1030" name="inst_19E9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8260" y="1330" name="inst_19E9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8260" y="1160" name="inst_19E9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9075" y="1230" name="inst_19E9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9480" y="1260" name="inst_19E9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9620" y="1310" name="inst_19EA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9105" y="1370" name="inst_19EA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10360" y="1450" name="inst_19EA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10425" y="1450" name="inst_19EA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10285" y="1450" name="inst_19EA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10190" y="1260" name="inst_19EA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10395" y="1260" name="inst_19EA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10520" y="1140" name="inst_19EA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10290" y="1110" name="inst_19EA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10795" y="1360" name="inst_19EA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10940" y="1450" name="inst_19EAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11235" y="1430" name="inst_19EAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10635" y="1440" name="inst_19EAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8670" y="1230" name="inst_19EAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="5220" y="740" name="inst_19EAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="5735" y="740" name="inst_19EAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="5535" y="650" name="inst_19EB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="6105" y="650" name="inst_19EB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="6370" y="550" name="inst_19EB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7055" y="540" name="inst_19EB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7350" y="690" name="inst_19EB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7610" y="600" name="inst_19EB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7840" y="710" name="inst_19EB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7305" y="460" name="inst_19EB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="6895" y="430" name="inst_19EB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="6445" y="440" name="inst_19EB9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="7650" y="740" name="inst_19EBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8355" y="810" name="inst_19EBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8105" y="750" name="inst_19EBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8635" y="1040" name="inst_19EBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8735" y="680" name="inst_19EBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8295" y="620" name="inst_19EBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8745" y="850" name="inst_19EC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8550" y="780" name="inst_19EC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9085" y="980" name="inst_19EC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9435" y="1040" name="inst_19EC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9300" y="1040" name="inst_19EC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8825" y="980" name="inst_19EC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9055" y="790" name="inst_19EC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8960" y="660" name="inst_19EC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="8890" y="800" name="inst_19EC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9355" y="700" name="inst_19EC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9295" y="890" name="inst_19ECA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9685" y="1130" name="inst_19ECB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9925" y="1130" name="inst_19ECC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9655" y="800" name="inst_19ECD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9555" y="930" name="inst_19ECE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9760" y="870" name="inst_19ECF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9900" y="630" name="inst_19ED0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9550" y="580" name="inst_19ED1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9835" y="730" name="inst_19ED2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="9495" y="810" name="inst_19ED3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10155" y="830" name="inst_19ED4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10095" y="630" name="inst_19ED5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10375" y="530" name="inst_19ED6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10345" y="690" name="inst_19ED7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10420" y="600" name="inst_19ED8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10625" y="510" name="inst_19ED9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10210" y="550" name="inst_19EDA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10535" y="820" name="inst_19EDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10425" y="820" name="inst_19EDC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10725" y="620" name="inst_19EDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10595" y="720" name="inst_19EDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10555" y="600" name="inst_19EDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10720" y="880" name="inst_19EE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10900" y="490" name="inst_19EE1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10950" y="820" name="inst_19EE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11190" y="640" name="inst_19EE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11080" y="540" name="inst_19EE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10850" y="680" name="inst_19EE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11285" y="1160" name="inst_19EE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11355" y="1040" name="inst_19EE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="10950" y="1030" name="inst_19EE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11000" y="1160" name="inst_19EE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11640" y="1080" name="inst_19EEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11765" y="890" name="inst_19EEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11505" y="830" name="inst_19EEC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11820" y="1010" name="inst_19EED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12200" y="780" name="inst_19EEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11950" y="890" name="inst_19EEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11745" y="730" name="inst_19EF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11520" y="950" name="inst_19EF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12295" y="930" name="inst_19EF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12065" y="1040" name="inst_19EF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12210" y="1040" name="inst_19EF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="11985" y="680" name="inst_19EF5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12825" y="1040" name="inst_19EF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12860" y="1040" name="inst_19EF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12900" y="1040" name="inst_19EF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12690" y="750" name="inst_19EF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12330" y="540" name="inst_19EFA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12445" y="820" name="inst_19EFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12110" y="550" name="inst_19EFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12635" y="910" name="inst_19EFD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12555" y="610" name="inst_19EFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12880" y="850" name="inst_19EFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13055" y="960" name="inst_19F00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13210" y="950" name="inst_19F01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13390" y="950" name="inst_19F02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13465" y="610" name="inst_19F03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13285" y="730" name="inst_19F04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="12820" y="580" name="inst_19F05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13050" y="820" name="inst_19F06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13090" y="640" name="inst_19F07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13470" y="1050" name="inst_19F08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13510" y="1050" name="inst_19F09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13545" y="1050" name="inst_19F0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13525" y="1010" name="inst_19F0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13490" y="1010" name="inst_19F0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13865" y="950" name="inst_19F0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13790" y="750" name="inst_19F0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13580" y="460" name="inst_19F0F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13570" y="780" name="inst_19F10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14035" y="810" name="inst_19F11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="13850" y="560" name="inst_19F12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14260" y="890" name="inst_19F13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14545" y="890" name="inst_19F14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14400" y="760" name="inst_19F15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14155" y="480" name="inst_19F16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14160" y="690" name="inst_19F17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14470" y="540" name="inst_19F18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14590" y="600" name="inst_19F19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14630" y="400" name="inst_19F1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14390" y="220" name="inst_19F1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14640" y="160" name="inst_19F1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14325" y="350" name="inst_19F1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15125" y="530" name="inst_19F1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14915" y="210" name="inst_19F1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="14895" y="390" name="inst_19F20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15355" y="220" name="inst_19F21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15385" y="460" name="inst_19F22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15165" y="310" name="inst_19F23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15075" y="60" name="inst_19F24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15680" y="390" name="inst_19F25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15760" y="210" name="inst_19F26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15535" y="240" name="inst_19F27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15580" y="60" name="inst_19F28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15970" y="100" name="inst_19F29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16090" y="340" name="inst_19F2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="15910" y="270" name="inst_19F2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16310" y="340" name="inst_19F2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16210" y="230" name="inst_19F2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16270" y="70" name="inst_19F2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16520" y="250" name="inst_19F2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16545" y="530" name="inst_19F30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17100" y="730" name="inst_19F31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16835" y="350" name="inst_19F32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16865" y="520" name="inst_19F33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17230" y="490" name="inst_19F34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17010" y="330" name="inst_19F35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17070" y="470" name="inst_19F36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16885" y="50" name="inst_19F37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16745" y="190" name="inst_19F38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16655" y="360" name="inst_19F39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17445" y="650" name="inst_19F3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17645" y="330" name="inst_19F3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17460" y="460" name="inst_19F3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17285" y="160" name="inst_19F3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17290" y="330" name="inst_19F3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17550" y="210" name="inst_19F3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="17105" y="100" name="inst_19F40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16480" y="80" name="inst_19F41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_TrapRing2" x="16805" y="730" name="inst_19F42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Ground" x="17995" y="60" name="inst_19F43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="11325" y="120" name="inst_19F44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_Ground" x="11325" y="-10" name="inst_19F45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90" />
-    <instance objName="TC_ExitRing" x="17860" y="660" name="inst_19F46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="PAUSER" x="65" y="10" name="inst_19F47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="50" y="20" name="inst_19F48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="140" y="20" name="inst_19F49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="230" y="20" name="inst_19F4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="330" y="20" name="inst_19F4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="420" y="20" name="inst_19F4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="510" y="20" name="inst_19F4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="600" y="20" name="inst_19F4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="690" y="20" name="inst_19F4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="790" y="20" name="inst_19F50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="880" y="20" name="inst_19F51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="970" y="20" name="inst_19F52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1060" y="20" name="inst_19F53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1150" y="20" name="inst_19F54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1250" y="20" name="inst_19F55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1340" y="20" name="inst_19F56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1410" y="20" name="inst_19F57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1500" y="20" name="inst_19F58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1590" y="20" name="inst_19F59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1690" y="20" name="inst_19F5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1780" y="20" name="inst_19F5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1870" y="20" name="inst_19F5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1960" y="20" name="inst_19F5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2050" y="20" name="inst_19F5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2130" y="20" name="inst_19F5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2220" y="20" name="inst_19F60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2310" y="20" name="inst_19F61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2400" y="20" name="inst_19F62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2490" y="20" name="inst_19F63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2590" y="20" name="inst_19F64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2690" y="20" name="inst_19F65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2770" y="20" name="inst_19F66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2870" y="20" name="inst_19F67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2960" y="20" name="inst_19F68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3050" y="20" name="inst_19F69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3150" y="20" name="inst_19F6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3240" y="20" name="inst_19F6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3340" y="20" name="inst_19F6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3440" y="20" name="inst_19F6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3530" y="20" name="inst_19F6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3630" y="20" name="inst_19F6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3720" y="20" name="inst_19F70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3790" y="20" name="inst_19F71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3880" y="20" name="inst_19F72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3980" y="20" name="inst_19F73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4080" y="20" name="inst_19F74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4180" y="20" name="inst_19F75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4230" y="20" name="inst_19F76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Timer" x="45" y="10" name="inst_19F77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="40" y="230" name="inst_19F78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="40" y="140" name="inst_19F79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="40" y="40" name="inst_19F7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="40" y="420" name="inst_19F7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="40" y="510" name="inst_19F7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="40" y="600" name="inst_19F7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="40" y="690" name="inst_19F7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="40" y="770" name="inst_19F7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
+    <instance objName="TailsLive" x="3405" y="900" name="inst_19D7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="20" y="320" name="inst_19D7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="145" y="320" name="inst_19D7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="275" y="320" name="inst_19D80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="405" y="320" name="inst_19D81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="530" y="320" name="inst_19D82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="650" y="320" name="inst_19D83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1480" y="510" name="inst_19D84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1600" y="550" name="inst_19D85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1735" y="610" name="inst_19D86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1840" y="700" name="inst_19D87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1960" y="700" name="inst_19D88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="2100" y="700" name="inst_19D89" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="2210" y="700" name="inst_19D8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="2340" y="700" name="inst_19D8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="2475" y="760" name="inst_19D8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1010" y="180" name="inst_19D8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1010" y="50" name="inst_19D8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1010" y="310" name="inst_19D8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="-270"/>
+    <instance objName="TC_Ground" x="1010" y="-10" name="inst_19D90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1010" y="440" name="inst_19D91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="-270"/>
+    <instance objName="TC_Ground" x="1010" y="570" name="inst_19D92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1010" y="700" name="inst_19D93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1010" y="830" name="inst_19D94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="780" y="820" name="inst_19D95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="650" y="760" name="inst_19D96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="530" y="760" name="inst_19D97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="400" y="840" name="inst_19D98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="20" y="850" name="inst_19D99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="160" y="1070" name="inst_19D9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="160" y="1200" name="inst_19D9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="160" y="1330" name="inst_19D9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="255" y="1330" name="inst_19D9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="385" y="1330" name="inst_19D9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="510" y="1330" name="inst_19D9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="630" y="1330" name="inst_19DA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="755" y="1260" name="inst_19DA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="860" y="1200" name="inst_19DA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="990" y="1200" name="inst_19DA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1110" y="1200" name="inst_19DA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1230" y="1200" name="inst_19DA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1350" y="1200" name="inst_19DA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="1480" y="640" name="inst_19DA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1480" y="770" name="inst_19DA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1480" y="900" name="inst_19DA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1480" y="1030" name="inst_19DAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1480" y="1160" name="inst_19DAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1480" y="1290" name="inst_19DAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="1480" y="1420" name="inst_19DAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2605" y="760" name="inst_19DAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="2730" y="810" name="inst_19DAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="2785" y="810" name="inst_19DB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3040" y="370" name="inst_19DB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="2920" y="520" name="inst_19DB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2920" y="530" name="inst_19DB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2920" y="660" name="inst_19DB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2920" y="790" name="inst_19DB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="3160" y="370" name="inst_19DB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3280" y="370" name="inst_19DB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3400" y="370" name="inst_19DB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3520" y="370" name="inst_19DB9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3640" y="370" name="inst_19DBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3760" y="460" name="inst_19DBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3880" y="540" name="inst_19DBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4000" y="610" name="inst_19DBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4010" y="960" name="inst_19DBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4130" y="960" name="inst_19DBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4250" y="960" name="inst_19DC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3890" y="960" name="inst_19DC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3770" y="960" name="inst_19DC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3650" y="960" name="inst_19DC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3530" y="960" name="inst_19DC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="3530" y="830" name="inst_19DC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="3410" y="760" name="inst_19DC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3290" y="760" name="inst_19DC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3290" y="880" name="inst_19DC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="3290" y="1010" name="inst_19DC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2920" y="1280" name="inst_19DCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3040" y="1280" name="inst_19DCB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3160" y="1280" name="inst_19DCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3280" y="1350" name="inst_19DCD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3400" y="1350" name="inst_19DCE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3520" y="1350" name="inst_19DCF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3640" y="1350" name="inst_19DD0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3760" y="1420" name="inst_19DD1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="3880" y="1420" name="inst_19DD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4000" y="1420" name="inst_19DD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4120" y="1420" name="inst_19DD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4240" y="1420" name="inst_19DD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4360" y="1420" name="inst_19DD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4370" y="960" name="inst_19DD7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4490" y="960" name="inst_19DD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4610" y="960" name="inst_19DD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4730" y="960" name="inst_19DDA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4850" y="960" name="inst_19DDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4970" y="960" name="inst_19DDC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4310" y="910" name="inst_19DDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="780" name="inst_19DDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="650" name="inst_19DDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="520" name="inst_19DE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="390" name="inst_19DE1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="260" name="inst_19DE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="130" name="inst_19DE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="0" name="inst_19DE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4430" y="0" name="inst_19DE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4550" y="0" name="inst_19DE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4670" y="0" name="inst_19DE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4790" y="0" name="inst_19DE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4910" y="0" name="inst_19DE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="5020" y="0" name="inst_19DEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4600" y="1090" name="inst_19DEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4600" y="1220" name="inst_19DEC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4600" y="1350" name="inst_19DED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="1080" name="inst_19DEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4310" y="1220" name="inst_19DEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4480" y="1420" name="inst_19DF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="4310" y="1090" name="inst_19DF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="4600" y="1480" name="inst_19DF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2920" y="920" name="inst_19DF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2920" y="1050" name="inst_19DF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2920" y="1180" name="inst_19DF5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="2920" y="370" name="inst_19DF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="160" y="940" name="inst_19DF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="145" y="850" name="inst_19DF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="910" y="820" name="inst_19DF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="2920" y="500" name="inst_19DFA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="RF_13" x="5" y="10" name="inst_19DFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Spring" x="4515" y="1330" name="inst_19DFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="RF_13" x="25" y="10" name="inst_19DFD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="5100" y="960" name="inst_19DFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="5230" y="960" name="inst_19DFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="5360" y="960" name="inst_19E00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="5490" y="960" name="inst_19E01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="5620" y="960" name="inst_19E02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="5750" y="960" name="inst_19E03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="5880" y="960" name="inst_19E04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="6010" y="960" name="inst_19E05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="6145" y="900" name="inst_19E06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="6280" y="840" name="inst_19E07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="6410" y="840" name="inst_19E08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="6540" y="840" name="inst_19E09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="6665" y="840" name="inst_19E0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="6795" y="840" name="inst_19E0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="6925" y="840" name="inst_19E0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="7055" y="840" name="inst_19E0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="7190" y="910" name="inst_19E0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="7320" y="1000" name="inst_19E0F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="7455" y="1070" name="inst_19E10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="7585" y="1120" name="inst_19E11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="7715" y="1120" name="inst_19E12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="7845" y="1120" name="inst_19E13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="7975" y="1120" name="inst_19E14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8105" y="1120" name="inst_19E15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8495" y="1120" name="inst_19E16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8625" y="1120" name="inst_19E17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8755" y="1120" name="inst_19E18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8885" y="1120" name="inst_19E19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9010" y="1120" name="inst_19E1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9140" y="1120" name="inst_19E1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9270" y="1120" name="inst_19E1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9400" y="1120" name="inst_19E1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9530" y="1120" name="inst_19E1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9665" y="1220" name="inst_19E1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9795" y="1220" name="inst_19E20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9920" y="1220" name="inst_19E21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8235" y="1420" name="inst_19E22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8365" y="1420" name="inst_19E23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8490" y="1420" name="inst_19E24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8620" y="1420" name="inst_19E25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8750" y="1420" name="inst_19E26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8875" y="1420" name="inst_19E27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9005" y="1420" name="inst_19E28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="8120" y="1240" name="inst_19E29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="8120" y="1370" name="inst_19E2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="8120" y="1500" name="inst_19E2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="9135" y="1460" name="inst_19E2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9265" y="1460" name="inst_19E2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9390" y="1460" name="inst_19E2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9520" y="1460" name="inst_19E2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9650" y="1460" name="inst_19E30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9775" y="1460" name="inst_19E31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="9905" y="1460" name="inst_19E32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10035" y="1460" name="inst_19E33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10160" y="1460" name="inst_19E34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10045" y="1220" name="inst_19E35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10060" y="1100" name="inst_19E36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="10060" y="970" name="inst_19E37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="10180" y="910" name="inst_19E38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10310" y="910" name="inst_19E39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10435" y="910" name="inst_19E3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10565" y="910" name="inst_19E3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10695" y="960" name="inst_19E3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10825" y="1010" name="inst_19E3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="10955" y="1250" name="inst_19E3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10825" y="1140" name="inst_19E3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="10825" y="1250" name="inst_19E40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10290" y="1540" name="inst_19E41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11080" y="1250" name="inst_19E42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11205" y="1250" name="inst_19E43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11335" y="1250" name="inst_19E44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11460" y="1250" name="inst_19E45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11590" y="1180" name="inst_19E46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11720" y="1180" name="inst_19E47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11845" y="1180" name="inst_19E48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11975" y="1120" name="inst_19E49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="12100" y="1120" name="inst_19E4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10415" y="1540" name="inst_19E4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10545" y="1540" name="inst_19E4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10670" y="1540" name="inst_19E4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10800" y="1540" name="inst_19E4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10930" y="1540" name="inst_19E4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11060" y="1540" name="inst_19E50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11190" y="1540" name="inst_19E51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11320" y="1540" name="inst_19E52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="11315" y="1420" name="inst_19E53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="11315" y="1290" name="inst_19E54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="11325" y="640" name="inst_19E55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="11325" y="510" name="inst_19E56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="11325" y="380" name="inst_19E57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="11325" y="250" name="inst_19E58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="12225" y="1120" name="inst_19E59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="12350" y="1120" name="inst_19E5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="12475" y="1040" name="inst_19E5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="12600" y="1040" name="inst_19E5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="12725" y="1040" name="inst_19E5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="12985" y="1040" name="inst_19E5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="13115" y="1040" name="inst_19E5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="13245" y="1040" name="inst_19E60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="13375" y="1040" name="inst_19E61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="12855" y="1120" name="inst_19E62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="13505" y="1130" name="inst_19E63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="13635" y="1040" name="inst_19E64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="13760" y="1040" name="inst_19E65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="13890" y="1040" name="inst_19E66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14015" y="1040" name="inst_19E67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14145" y="970" name="inst_19E68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14275" y="970" name="inst_19E69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14400" y="970" name="inst_19E6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14525" y="970" name="inst_19E6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14650" y="970" name="inst_19E6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14775" y="970" name="inst_19E6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14775" y="850" name="inst_19E6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="14775" y="720" name="inst_19E6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="14775" y="610" name="inst_19E70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="14905" y="610" name="inst_19E71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="15035" y="610" name="inst_19E72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="15165" y="610" name="inst_19E73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="15290" y="610" name="inst_19E74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="15415" y="610" name="inst_19E75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="15545" y="520" name="inst_19E76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="15675" y="470" name="inst_19E77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="15800" y="420" name="inst_19E78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="15930" y="420" name="inst_19E79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="16055" y="420" name="inst_19E7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="16185" y="420" name="inst_19E7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="16310" y="420" name="inst_19E7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="16440" y="510" name="inst_19E7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="16570" y="610" name="inst_19E7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="16700" y="710" name="inst_19E7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="16830" y="810" name="inst_19E80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="16960" y="810" name="inst_19E81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17090" y="810" name="inst_19E82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17220" y="810" name="inst_19E83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17345" y="810" name="inst_19E84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17475" y="810" name="inst_19E85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17600" y="810" name="inst_19E86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17730" y="810" name="inst_19E87" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17860" y="810" name="inst_19E88" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17995" y="710" name="inst_19E89" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="17995" y="580" name="inst_19E8A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="17995" y="450" name="inst_19E8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="17995" y="320" name="inst_19E8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="17995" y="190" name="inst_19E8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Spring" x="11180" y="1450" name="inst_19E8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Spring" x="14690" y="880" name="inst_19E8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="10525" y="1420" name="inst_19E90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="6660" y="720" name="inst_19E91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_TrapRing2" x="6375" y="760" name="inst_19E92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="6660" y="550" name="inst_19E93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="6800" y="750" name="inst_19E94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7040" y="750" name="inst_19E95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7305" y="920" name="inst_19E96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7520" y="990" name="inst_19E97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7780" y="1000" name="inst_19E98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7990" y="890" name="inst_19E99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7705" y="830" name="inst_19E9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8135" y="1030" name="inst_19E9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8260" y="1330" name="inst_19E9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8260" y="1160" name="inst_19E9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9075" y="1230" name="inst_19E9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9480" y="1260" name="inst_19E9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9620" y="1310" name="inst_19EA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9105" y="1370" name="inst_19EA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10360" y="1450" name="inst_19EA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10425" y="1450" name="inst_19EA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10285" y="1450" name="inst_19EA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10190" y="1260" name="inst_19EA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10395" y="1260" name="inst_19EA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10520" y="1140" name="inst_19EA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10290" y="1110" name="inst_19EA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10795" y="1360" name="inst_19EA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10940" y="1450" name="inst_19EAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11235" y="1430" name="inst_19EAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10635" y="1440" name="inst_19EAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8670" y="1230" name="inst_19EAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="5220" y="740" name="inst_19EAE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="5735" y="740" name="inst_19EAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="5535" y="650" name="inst_19EB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="6105" y="650" name="inst_19EB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="6370" y="550" name="inst_19EB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7055" y="540" name="inst_19EB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7350" y="690" name="inst_19EB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7610" y="600" name="inst_19EB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7840" y="710" name="inst_19EB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7305" y="460" name="inst_19EB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="6895" y="430" name="inst_19EB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="6445" y="440" name="inst_19EB9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="7650" y="740" name="inst_19EBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8355" y="810" name="inst_19EBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8105" y="750" name="inst_19EBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8635" y="1040" name="inst_19EBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8735" y="680" name="inst_19EBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8295" y="620" name="inst_19EBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8745" y="850" name="inst_19EC0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8550" y="780" name="inst_19EC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9085" y="980" name="inst_19EC2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9435" y="1040" name="inst_19EC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9300" y="1040" name="inst_19EC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8825" y="980" name="inst_19EC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9055" y="790" name="inst_19EC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8960" y="660" name="inst_19EC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="8890" y="800" name="inst_19EC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9355" y="700" name="inst_19EC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9295" y="890" name="inst_19ECA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9685" y="1130" name="inst_19ECB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9925" y="1130" name="inst_19ECC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9655" y="800" name="inst_19ECD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9555" y="930" name="inst_19ECE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9760" y="870" name="inst_19ECF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9900" y="630" name="inst_19ED0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9550" y="580" name="inst_19ED1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9835" y="730" name="inst_19ED2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="9495" y="810" name="inst_19ED3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10155" y="830" name="inst_19ED4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10095" y="630" name="inst_19ED5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10375" y="530" name="inst_19ED6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10345" y="690" name="inst_19ED7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10420" y="600" name="inst_19ED8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10625" y="510" name="inst_19ED9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10210" y="550" name="inst_19EDA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10535" y="820" name="inst_19EDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10425" y="820" name="inst_19EDC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10725" y="620" name="inst_19EDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10595" y="720" name="inst_19EDE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10555" y="600" name="inst_19EDF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10720" y="880" name="inst_19EE0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10900" y="490" name="inst_19EE1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10950" y="820" name="inst_19EE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11190" y="640" name="inst_19EE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11080" y="540" name="inst_19EE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10850" y="680" name="inst_19EE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11285" y="1160" name="inst_19EE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11355" y="1040" name="inst_19EE7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="10950" y="1030" name="inst_19EE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11000" y="1160" name="inst_19EE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11640" y="1080" name="inst_19EEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11765" y="890" name="inst_19EEB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11505" y="830" name="inst_19EEC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11820" y="1010" name="inst_19EED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12200" y="780" name="inst_19EEE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11950" y="890" name="inst_19EEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11745" y="730" name="inst_19EF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11520" y="950" name="inst_19EF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12295" y="930" name="inst_19EF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12065" y="1040" name="inst_19EF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12210" y="1040" name="inst_19EF4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="11985" y="680" name="inst_19EF5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12825" y="1040" name="inst_19EF6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12860" y="1040" name="inst_19EF7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12900" y="1040" name="inst_19EF8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12690" y="750" name="inst_19EF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12330" y="540" name="inst_19EFA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12445" y="820" name="inst_19EFB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12110" y="550" name="inst_19EFC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12635" y="910" name="inst_19EFD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12555" y="610" name="inst_19EFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12880" y="850" name="inst_19EFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13055" y="960" name="inst_19F00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13210" y="950" name="inst_19F01" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13390" y="950" name="inst_19F02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13465" y="610" name="inst_19F03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13285" y="730" name="inst_19F04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="12820" y="580" name="inst_19F05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13050" y="820" name="inst_19F06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13090" y="640" name="inst_19F07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13470" y="1050" name="inst_19F08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13510" y="1050" name="inst_19F09" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13545" y="1050" name="inst_19F0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13525" y="1010" name="inst_19F0B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13490" y="1010" name="inst_19F0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13865" y="950" name="inst_19F0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13790" y="750" name="inst_19F0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13580" y="460" name="inst_19F0F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13570" y="780" name="inst_19F10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14035" y="810" name="inst_19F11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="13850" y="560" name="inst_19F12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14260" y="890" name="inst_19F13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14545" y="890" name="inst_19F14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14400" y="760" name="inst_19F15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14155" y="480" name="inst_19F16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14160" y="690" name="inst_19F17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14470" y="540" name="inst_19F18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14590" y="600" name="inst_19F19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14630" y="400" name="inst_19F1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14390" y="220" name="inst_19F1B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14640" y="160" name="inst_19F1C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14325" y="350" name="inst_19F1D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15125" y="530" name="inst_19F1E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14915" y="210" name="inst_19F1F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="14895" y="390" name="inst_19F20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15355" y="220" name="inst_19F21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15385" y="460" name="inst_19F22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15165" y="310" name="inst_19F23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15075" y="60" name="inst_19F24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15680" y="390" name="inst_19F25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15760" y="210" name="inst_19F26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15535" y="240" name="inst_19F27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15580" y="60" name="inst_19F28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15970" y="100" name="inst_19F29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16090" y="340" name="inst_19F2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="15910" y="270" name="inst_19F2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16310" y="340" name="inst_19F2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16210" y="230" name="inst_19F2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16270" y="70" name="inst_19F2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16520" y="250" name="inst_19F2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16545" y="530" name="inst_19F30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17100" y="730" name="inst_19F31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16835" y="350" name="inst_19F32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16865" y="520" name="inst_19F33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17230" y="490" name="inst_19F34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17010" y="330" name="inst_19F35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17070" y="470" name="inst_19F36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16885" y="50" name="inst_19F37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16745" y="190" name="inst_19F38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16655" y="360" name="inst_19F39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17445" y="650" name="inst_19F3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17645" y="330" name="inst_19F3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17460" y="460" name="inst_19F3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17285" y="160" name="inst_19F3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17290" y="330" name="inst_19F3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17550" y="210" name="inst_19F3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="17105" y="100" name="inst_19F40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16480" y="80" name="inst_19F41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_TrapRing2" x="16805" y="730" name="inst_19F42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Ground" x="17995" y="60" name="inst_19F43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="11325" y="120" name="inst_19F44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_Ground" x="11325" y="-10" name="inst_19F45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="90"/>
+    <instance objName="TC_ExitRing" x="17860" y="660" name="inst_19F46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PAUSER" x="65" y="10" name="inst_19F47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="50" y="20" name="inst_19F48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="140" y="20" name="inst_19F49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="230" y="20" name="inst_19F4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="330" y="20" name="inst_19F4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="420" y="20" name="inst_19F4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="510" y="20" name="inst_19F4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="600" y="20" name="inst_19F4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="690" y="20" name="inst_19F4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="790" y="20" name="inst_19F50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="880" y="20" name="inst_19F51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="970" y="20" name="inst_19F52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1060" y="20" name="inst_19F53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1150" y="20" name="inst_19F54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1250" y="20" name="inst_19F55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1340" y="20" name="inst_19F56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1410" y="20" name="inst_19F57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1500" y="20" name="inst_19F58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1590" y="20" name="inst_19F59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1690" y="20" name="inst_19F5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1780" y="20" name="inst_19F5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1870" y="20" name="inst_19F5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1960" y="20" name="inst_19F5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2050" y="20" name="inst_19F5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2130" y="20" name="inst_19F5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2220" y="20" name="inst_19F60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2310" y="20" name="inst_19F61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2400" y="20" name="inst_19F62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2490" y="20" name="inst_19F63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2590" y="20" name="inst_19F64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2690" y="20" name="inst_19F65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2770" y="20" name="inst_19F66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2870" y="20" name="inst_19F67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2960" y="20" name="inst_19F68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3050" y="20" name="inst_19F69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3150" y="20" name="inst_19F6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3240" y="20" name="inst_19F6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3340" y="20" name="inst_19F6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3440" y="20" name="inst_19F6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3530" y="20" name="inst_19F6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3630" y="20" name="inst_19F6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3720" y="20" name="inst_19F70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3790" y="20" name="inst_19F71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3880" y="20" name="inst_19F72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3980" y="20" name="inst_19F73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4080" y="20" name="inst_19F74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4180" y="20" name="inst_19F75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4230" y="20" name="inst_19F76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Timer" x="45" y="10" name="inst_19F77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="40" y="230" name="inst_19F78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="40" y="140" name="inst_19F79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="40" y="40" name="inst_19F7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="40" y="420" name="inst_19F7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="40" y="510" name="inst_19F7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="40" y="600" name="inst_19F7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="40" y="690" name="inst_19F7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="40" y="770" name="inst_19F7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
-  <tiles />
-  <PhysicsWorld>false</PhysicsWorld>
+  <tiles/>
+  <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
   <PhysicsWorldRight>640</PhysicsWorldRight>
   <PhysicsWorldBottom>480</PhysicsWorldBottom>
   <PhysicsWorldGravityX>0</PhysicsWorldGravityX>
   <PhysicsWorldGravityY>10</PhysicsWorldGravityY>
-  <PhysicsWorldPixToMeters>0.1</PhysicsWorldPixToMeters>
+  <PhysicsWorldPixToMeters>0.100000001490116</PhysicsWorldPixToMeters>
 </room>

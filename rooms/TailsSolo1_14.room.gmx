@@ -21,8 +21,7 @@ if ((global.MainPoint == 2) || (global.MainPoint == 3))
 {
     with (TailsLive)
         instance_destroy()
-}
-</code>
+}</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>0</clearViewBackground>
   <clearDisplayBuffer>0</clearDisplayBuffer>
@@ -43,650 +42,650 @@ if ((global.MainPoint == 2) || (global.MainPoint == 3))
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backTS1_1" x="0" y="20" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backTS1_3" x="0" y="110" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="backTS1_4" x="0" y="-20" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backTS1_5" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="backTS1_5" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="backTS1_1" x="0" y="20" htiled="-1" vtiled="0" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="backTS1_3" x="0" y="110" htiled="-1" vtiled="0" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="backTS1_4" x="0" y="-20" htiled="-1" vtiled="0" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="backTS1_5" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="backTS1_5" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="-1" objName="TTS1_InRing" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
+    <view visible="-1" objName="TTS1_InRing" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="TailsLive" x="1056" y="1328" name="inst_1A519" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TailsLive" x="11265" y="1152" name="inst_1A51A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="256" y="928" name="inst_1A51B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="768" y="928" name="inst_1A51C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="1280" y="928" name="inst_1A51D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="2310" y="1280" name="inst_1A51E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="1184" y="1376" name="inst_1A51F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="1495" y="948" name="inst_1A520" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="1792" y="1088" name="inst_1A521" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="2821" y="1280" name="inst_1A522" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="3332" y="1280" name="inst_1A523" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="3430" y="1248" name="inst_1A524" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="3941" y="1248" name="inst_1A525" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="3836" y="1280" name="inst_1A526" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="4452" y="992" name="inst_1A527" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="4963" y="704" name="inst_1A528" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="5474" y="704" name="inst_1A529" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="5985" y="960" name="inst_1A52A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="5467" y="1344" name="inst_1A52B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="5971" y="1344" name="inst_1A52C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="6475" y="1344" name="inst_1A52D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="6930" y="992" name="inst_1A52E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="8552" y="1280" name="inst_1A52F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="7442" y="1280" name="inst_1A530" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="7955" y="1408" name="inst_1A531" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="9128" y="1120" name="inst_1A532" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="9632" y="1120" name="inst_1A533" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="9126" y="896" name="inst_1A534" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="9637" y="896" name="inst_1A535" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="10149" y="896" name="inst_1A536" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="10143" y="1216" name="inst_1A537" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="10654" y="1088" name="inst_1A538" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="10661" y="864" name="inst_1A539" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="11165" y="1088" name="inst_1A53A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="11676" y="960" name="inst_1A53B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="11172" y="832" name="inst_1A53C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="11683" y="848" name="inst_1A53D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="12194" y="848" name="inst_1A53E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="12698" y="608" name="inst_1A53F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="12187" y="1168" name="inst_1A540" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="12698" y="1408" name="inst_1A541" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="13209" y="1408" name="inst_1A542" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="13930" y="1408" name="inst_1A543" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="14441" y="1408" name="inst_1A544" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="14945" y="1136" name="inst_1A545" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4236" y="1151" name="inst_1A546" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4747" y="855" name="inst_1A547" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="880" name="inst_1A548" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="366" name="inst_1A549" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="958" name="inst_1A54A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="864" name="inst_1A54B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6714" y="1153" name="inst_1A54C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6714" y="1294" name="inst_1A54D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7145" y="1153" name="inst_1A54E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8251" y="1406" name="inst_1A54F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8829" y="799" name="inst_1A550" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8749" y="720" name="inst_1A551" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8671" y="533" name="inst_1A552" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8848" y="1277" name="inst_1A553" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="9846" y="1280" name="inst_1A554" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="10438" y="1156" name="inst_1A555" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11460" y="1028" name="inst_1A556" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11891" y="981" name="inst_1A557" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12482" y="768" name="inst_1A558" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12402" y="1328" name="inst_1A559" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14729" y="1298" name="inst_1A55A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="16" name="inst_1A55B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="1372" name="inst_1A55C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="1090" name="inst_1A55D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="8456" y="512" name="inst_1A55E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="7948" y="512" name="inst_1A55F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="7435" y="624" name="inst_1A560" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="6924" y="624" name="inst_1A561" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="6573" y="432" name="inst_1A562" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6788" y="496" name="inst_1A563" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7732" y="533" name="inst_1A564" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7657" y="1301" name="inst_1A565" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="PAUSER" x="32" y="16" name="inst_1A566" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="1495" y="995" name="inst_1A567" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="1495" y="1042" name="inst_1A568" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="1495" y="1089" name="inst_1A569" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="1325" name="inst_1A56A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="1278" name="inst_1A56B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="1231" name="inst_1A56C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="1184" name="inst_1A56D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="1137" name="inst_1A56E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="1043" name="inst_1A56F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="996" name="inst_1A570" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="887" y="949" name="inst_1A571" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4236" y="1245" name="inst_1A572" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4236" y="1198" name="inst_1A573" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4236" y="1105" name="inst_1A574" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4236" y="1059" name="inst_1A575" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4236" y="1012" name="inst_1A576" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4747" y="989" name="inst_1A577" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4747" y="943" name="inst_1A578" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4747" y="900" name="inst_1A579" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4747" y="809" name="inst_1A57A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4747" y="768" name="inst_1A57B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="4747" y="723" name="inst_1A57C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="726" name="inst_1A57D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="817" name="inst_1A57E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="771" name="inst_1A57F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="911" name="inst_1A580" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1005" name="inst_1A581" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1052" name="inst_1A582" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1099" name="inst_1A583" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1145" name="inst_1A584" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1192" name="inst_1A585" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1239" name="inst_1A586" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1286" name="inst_1A587" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1333" name="inst_1A588" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="5171" y="1341" name="inst_1A589" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="926" name="inst_1A58A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="973" name="inst_1A58B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="1020" name="inst_1A58C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="1066" name="inst_1A58D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="1113" name="inst_1A58E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="833" name="inst_1A58F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="786" name="inst_1A590" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="739" name="inst_1A591" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="692" name="inst_1A592" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="645" name="inst_1A593" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="600" name="inst_1A594" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="553" name="inst_1A595" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="507" name="inst_1A596" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="460" name="inst_1A597" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="413" name="inst_1A598" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="319" name="inst_1A599" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="272" name="inst_1A59A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="225" name="inst_1A59B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="179" name="inst_1A59C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="132" name="inst_1A59D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="84" name="inst_1A59E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6281" y="38" name="inst_1A59F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6788" y="453" name="inst_1A5A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6788" y="527" name="inst_1A5A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6714" y="1247" name="inst_1A5A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6714" y="1014" name="inst_1A5A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6714" y="1060" name="inst_1A5A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6714" y="1107" name="inst_1A5A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6714" y="1200" name="inst_1A5A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6714" y="1341" name="inst_1A5A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7145" y="1014" name="inst_1A5A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7145" y="1106" name="inst_1A5A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7145" y="1060" name="inst_1A5AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7145" y="1199" name="inst_1A5AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7145" y="1244" name="inst_1A5AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7145" y="1291" name="inst_1A5AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7732" y="580" name="inst_1A5AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7732" y="623" name="inst_1A5AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7657" y="1348" name="inst_1A5B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7657" y="1395" name="inst_1A5B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="7657" y="1442" name="inst_1A5B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8251" y="1359" name="inst_1A5B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8251" y="1312" name="inst_1A5B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="8467" y="1280" name="inst_1A5B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="9064" y="1120" name="inst_1A5B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8848" y="1231" name="inst_1A5B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8848" y="1185" name="inst_1A5B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8848" y="1141" name="inst_1A5B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8671" y="578" name="inst_1A5BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8671" y="624" name="inst_1A5BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8671" y="671" name="inst_1A5BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8671" y="717" name="inst_1A5BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8749" y="766" name="inst_1A5BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8749" y="812" name="inst_1A5BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8749" y="858" name="inst_1A5C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8829" y="846" name="inst_1A5C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="8829" y="888" name="inst_1A5C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12482" y="630" name="inst_1A5C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12482" y="677" name="inst_1A5C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12482" y="724" name="inst_1A5C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12482" y="814" name="inst_1A5C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12482" y="844" name="inst_1A5C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11460" y="981" name="inst_1A5C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11460" y="1075" name="inst_1A5C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11460" y="1085" name="inst_1A5CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11891" y="1028" name="inst_1A5CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11891" y="1075" name="inst_1A5CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11891" y="1122" name="inst_1A5CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11891" y="1169" name="inst_1A5CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12402" y="1189" name="inst_1A5CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12402" y="1236" name="inst_1A5D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12402" y="1283" name="inst_1A5D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12402" y="1375" name="inst_1A5D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12402" y="1421" name="inst_1A5D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14729" y="1157" name="inst_1A5D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14729" y="1204" name="inst_1A5D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14729" y="1251" name="inst_1A5D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14729" y="1345" name="inst_1A5D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14729" y="1392" name="inst_1A5D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14729" y="1424" name="inst_1A5D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="9847" y="1141" name="inst_1A5DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="9847" y="1188" name="inst_1A5DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="9847" y="1234" name="inst_1A5DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="10438" y="1109" name="inst_1A5DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="10438" y="1203" name="inst_1A5DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="10438" y="1218" name="inst_1A5DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Checker1" x="11753" y="896" name="inst_1A5E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="13591" y="1520" name="inst_1A5E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="13080" y="1520" name="inst_1A5E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="12584" y="1827" name="inst_1A5E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="12072" y="1658" name="inst_1A5E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="11561" y="1408" name="inst_1A5E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="14102" y="1520" name="inst_1A5E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="14611" y="1637" name="inst_1A5E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="15119" y="1422" name="inst_1A5E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="15623" y="1236" name="inst_1A5E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="15452" y="1136" name="inst_1A5EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15407" y="1258" name="inst_1A5EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15407" y="1303" name="inst_1A5EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15407" y="1348" name="inst_1A5ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15407" y="1395" name="inst_1A5EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15407" y="1433" name="inst_1A5EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14903" y="1443" name="inst_1A5F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14903" y="1490" name="inst_1A5F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14903" y="1537" name="inst_1A5F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14903" y="1583" name="inst_1A5F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14903" y="1629" name="inst_1A5F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14317" y="1541" name="inst_1A5F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14317" y="1587" name="inst_1A5F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14317" y="1634" name="inst_1A5F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12864" y="1535" name="inst_1A5F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12864" y="1582" name="inst_1A5F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12864" y="1629" name="inst_1A5FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12864" y="1675" name="inst_1A5FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12864" y="1721" name="inst_1A5FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12864" y="1768" name="inst_1A5FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12864" y="1815" name="inst_1A5FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12287" y="1679" name="inst_1A5FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12287" y="1725" name="inst_1A600" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12287" y="1771" name="inst_1A601" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="12287" y="1814" name="inst_1A602" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11776" y="1429" name="inst_1A603" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11776" y="1476" name="inst_1A604" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11776" y="1523" name="inst_1A605" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11776" y="1570" name="inst_1A606" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11776" y="1617" name="inst_1A607" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11776" y="1664" name="inst_1A608" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11264" y="1405" name="inst_1A609" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11264" y="1358" name="inst_1A60A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11264" y="1311" name="inst_1A60B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11264" y="1264" name="inst_1A60C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11264" y="1217" name="inst_1A60D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11264" y="1171" name="inst_1A60E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="11264" y="1125" name="inst_1A60F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="1099" name="inst_1A610" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="1052" name="inst_1A611" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="1005" name="inst_1A612" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="959" name="inst_1A613" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="913" name="inst_1A614" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="868" name="inst_1A615" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="824" name="inst_1A616" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="781" name="inst_1A617" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="736" name="inst_1A618" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="690" name="inst_1A619" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="644" name="inst_1A61A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="598" name="inst_1A61B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="551" name="inst_1A61C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="504" name="inst_1A61D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="457" name="inst_1A61E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="412" name="inst_1A61F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="367" name="inst_1A620" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="322" name="inst_1A621" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="276" name="inst_1A622" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="230" name="inst_1A623" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="183" name="inst_1A624" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="136" name="inst_1A625" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="90" name="inst_1A626" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="44" name="inst_1A627" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15016" y="3" name="inst_1A628" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15918" y="1232" name="inst_1A629" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15918" y="1186" name="inst_1A62A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15918" y="1140" name="inst_1A62B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="15918" y="1093" name="inst_1A62C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="13928" y="1497" name="inst_1A62D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="13928" y="1450" name="inst_1A62E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14042" y="1498" name="inst_1A62F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14042" y="1451" name="inst_1A630" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14148" y="1451" name="inst_1A631" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14148" y="1497" name="inst_1A632" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="13810" y="1451" name="inst_1A633" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="13810" y="1498" name="inst_1A634" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="13138" y="1451" name="inst_1A635" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="13138" y="1498" name="inst_1A636" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="12864" y="1451" name="inst_1A637" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="12864" y="1498" name="inst_1A638" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15490" y="1179" name="inst_1A639" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15490" y="1220" name="inst_1A63A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15667" y="1179" name="inst_1A63B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15667" y="1218" name="inst_1A63C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="16214" y="1187" name="inst_1A63D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="16134" y="1072" name="inst_1A63E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="15311" y="979" name="inst_1A63F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="15821" y="979" name="inst_1A640" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="16329" y="979" name="inst_1A641" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="16646" y="1072" name="inst_1A642" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="16724" y="1363" name="inst_1A643" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="17236" y="1583" name="inst_1A644" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="17157" y="1072" name="inst_1A645" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="17669" y="888" name="inst_1A646" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="18155" y="888" name="inst_1A647" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="17748" y="1583" name="inst_1A648" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17453" y="909" name="inst_1A649" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17453" y="955" name="inst_1A64A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17453" y="1001" name="inst_1A64B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17453" y="1047" name="inst_1A64C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17453" y="1069" name="inst_1A64D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16429" y="1208" name="inst_1A64E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16429" y="1255" name="inst_1A64F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16429" y="1302" name="inst_1A650" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16429" y="1347" name="inst_1A651" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16429" y="1358" name="inst_1A652" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16939" y="1384" name="inst_1A653" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16939" y="1429" name="inst_1A654" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16939" y="1476" name="inst_1A655" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16939" y="1522" name="inst_1A656" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16939" y="1568" name="inst_1A657" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="16939" y="1579" name="inst_1A658" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="16841" y="979" name="inst_1A659" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="17026" y="979" name="inst_1A65A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17241" y="936" name="inst_1A65B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17241" y="889" name="inst_1A65C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17241" y="842" name="inst_1A65D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="17241" y="798" name="inst_1A65E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="17538" y="795" name="inst_1A65F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="18021" y="795" name="inst_1A660" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="16283" y="1022" name="inst_1A661" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="16283" y="1049" name="inst_1A662" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="16506" y="1022" name="inst_1A663" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="16506" y="1053" name="inst_1A664" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="16774" y="1022" name="inst_1A665" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="16774" y="1054" name="inst_1A666" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="17084" y="1022" name="inst_1A667" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="17084" y="1053" name="inst_1A668" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="17700" y="838" name="inst_1A669" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="17700" y="862" name="inst_1A66A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="13208" y="608" name="inst_1A66B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="13719" y="727" name="inst_1A66C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="14231" y="727" name="inst_1A66D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="14720" y="530" name="inst_1A66E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14504" y="551" name="inst_1A66F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14504" y="598" name="inst_1A670" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14504" y="645" name="inst_1A671" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14504" y="692" name="inst_1A672" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="14504" y="722" name="inst_1A673" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="13423" y="629" name="inst_1A674" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="13423" y="676" name="inst_1A675" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="13423" y="723" name="inst_1A676" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="17944" y="838" name="inst_1A677" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="17944" y="862" name="inst_1A678" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14316" y="1451" name="inst_1A679" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14316" y="1498" name="inst_1A67A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14729" y="1471" name="inst_1A67B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14729" y="1518" name="inst_1A67C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14729" y="1565" name="inst_1A67D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="14729" y="1612" name="inst_1A67E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15203" y="1179" name="inst_1A67F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15203" y="1225" name="inst_1A680" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15203" y="1270" name="inst_1A681" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15203" y="1316" name="inst_1A682" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15203" y="1363" name="inst_1A683" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="15203" y="1396" name="inst_1A684" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="17453" y="838" name="inst_1A685" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_WallBrown" x="17453" y="862" name="inst_1A686" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6788" y="571" name="inst_1A687" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="6788" y="600" name="inst_1A688" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="13973" y="953" name="inst_1A689" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="14423" y="727" name="inst_1A68A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Checker0" x="1833" y="836" name="inst_1A68B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="1192" y="1090" name="inst_1A68C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1538" name="inst_1A68D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1492" name="inst_1A68E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1447" name="inst_1A68F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1401" name="inst_1A690" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1355" name="inst_1A691" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1309" name="inst_1A692" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1264" name="inst_1A693" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1218" name="inst_1A694" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1173" name="inst_1A695" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1129" name="inst_1A696" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1083" name="inst_1A697" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="1036" name="inst_1A698" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="989" name="inst_1A699" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="944" name="inst_1A69A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="18011" y="913" name="inst_1A69B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Ground" x="17444" y="795" name="inst_1A69C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="13677" y="950" name="inst_1A69D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="13677" y="905" name="inst_1A69E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="13677" y="859" name="inst_1A69F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="13677" y="813" name="inst_1A6A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Wall" x="13677" y="769" name="inst_1A6A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Checker0" x="1834" y="355" name="inst_1A6A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_InRing" x="233" y="793" name="inst_1A6A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TC_Checker5" x="17999" y="849" name="inst_1A6A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Checker3" x="6826" y="385" name="inst_1A6A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_Checker3" x="14465" y="481" name="inst_1A6A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11772" y="881" name="inst_1A6A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="11798" y="882" name="inst_1A6A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="12081" y="1123" name="inst_1A6A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="12790" y="1364" name="inst_1A6AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="13307" y="1364" name="inst_1A6AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14371" y="1370" name="inst_1A6AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14878" y="1093" name="inst_1A6AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="12228" y="1618" name="inst_1A6AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11880" y="1618" name="inst_1A6AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11341" y="1346" name="inst_1A6B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11528" y="1342" name="inst_1A6B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11438" y="1215" name="inst_1A6B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11725" y="1207" name="inst_1A6B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15105" y="1361" name="inst_1A6B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15333" y="1365" name="inst_1A6B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15338" y="1083" name="inst_1A6B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15082" y="1041" name="inst_1A6B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="15268" y="1073" name="inst_1A6B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="15168" y="1047" name="inst_1A6B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="14833" y="1077" name="inst_1A6BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="11972" y="1600" name="inst_1A6BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12125" y="1594" name="inst_1A6BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="11659" y="1334" name="inst_1A6BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="11419" y="1328" name="inst_1A6BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="11333" y="1278" name="inst_1A6BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="15270" y="1351" name="inst_1A6C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="15044" y="1372" name="inst_1A6C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12579" y="1337" name="inst_1A6C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="14412" y="1338" name="inst_1A6C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12281" y="1094" name="inst_1A6C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12163" y="1092" name="inst_1A6C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="13144" y="1354" name="inst_1A6C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12932" y="1322" name="inst_1A6C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="14595" y="1351" name="inst_1A6C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="14941" y="1064" name="inst_1A6C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14528" y="1357" name="inst_1A6CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14099" y="1351" name="inst_1A6CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="13939" y="1366" name="inst_1A6CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="13047" y="1473" name="inst_1A6CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="12952" y="1478" name="inst_1A6CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="13869" y="1476" name="inst_1A6CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14482" y="1584" name="inst_1A6D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14826" y="1590" name="inst_1A6D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12434" y="1764" name="inst_1A6D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12771" y="1771" name="inst_1A6D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12599" y="1763" name="inst_1A6D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="12053" y="1548" name="inst_1A6D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11592" y="1337" name="inst_1A6D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11469" y="1308" name="inst_1A6D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="12175" y="1587" name="inst_1A6D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="11837" y="1579" name="inst_1A6D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15423" y="1070" name="inst_1A6DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15593" y="1076" name="inst_1A6DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15664" y="1089" name="inst_1A6DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15574" y="1183" name="inst_1A6DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15594" y="1185" name="inst_1A6DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14939" y="1308" name="inst_1A6DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15140" y="1303" name="inst_1A6E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14778" y="1019" name="inst_1A6E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="13811" y="848" name="inst_1A6E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16408" y="1020" name="inst_1A6E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16634" y="1021" name="inst_1A6E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="16861" y="1022" name="inst_1A6E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17002" y="1024" name="inst_1A6E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17776" y="848" name="inst_1A6E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="17808" y="847" name="inst_1A6E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17841" y="846" name="inst_1A6E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16525" y="1297" name="inst_1A6EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16937" y="1299" name="inst_1A6EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16676" y="1230" name="inst_1A6EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="17126" y="1522" name="inst_1A6ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="17725" y="1510" name="inst_1A6EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="17872" y="1406" name="inst_1A6EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="17425" y="1379" name="inst_1A6F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="16704" y="1296" name="inst_1A6F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="16828" y="1228" name="inst_1A6F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="16599" y="1239" name="inst_1A6F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17050" y="1484" name="inst_1A6F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17266" y="1431" name="inst_1A6F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17359" y="1473" name="inst_1A6F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17544" y="1399" name="inst_1A6F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17554" y="1479" name="inst_1A6F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17675" y="1416" name="inst_1A6F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17451" y="1500" name="inst_1A6FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17829" y="1488" name="inst_1A6FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17949" y="1511" name="inst_1A6FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17788" y="1385" name="inst_1A6FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="15231" y="881" name="inst_1A6FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="15633" y="865" name="inst_1A6FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="15407" y="780" name="inst_1A700" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="16203" y="817" name="inst_1A701" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="16630" y="791" name="inst_1A702" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="16449" y="865" name="inst_1A703" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="16860" y="814" name="inst_1A704" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17078" y="879" name="inst_1A705" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17359" y="717" name="inst_1A706" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17545" y="660" name="inst_1A707" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17688" y="718" name="inst_1A708" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="17856" y="713" name="inst_1A709" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="17764" y="680" name="inst_1A70A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="17471" y="713" name="inst_1A70B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="17144" y="844" name="inst_1A70C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16994" y="867" name="inst_1A70D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16709" y="865" name="inst_1A70E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16794" y="892" name="inst_1A70F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16532" y="881" name="inst_1A710" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="16340" y="894" name="inst_1A711" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15994" y="873" name="inst_1A712" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15543" y="915" name="inst_1A713" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15782" y="776" name="inst_1A714" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15332" y="883" name="inst_1A715" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="15144" y="854" name="inst_1A716" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="13991" y="870" name="inst_1A717" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14174" y="838" name="inst_1A718" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="13753" y="809" name="inst_1A719" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="14100" y="826" name="inst_1A71A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="13955" y="794" name="inst_1A71B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="14580" y="673" name="inst_1A71C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="3835" y="1193" name="inst_1A71D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="4073" y="1187" name="inst_1A71E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="5288" y="633" name="inst_1A71F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="5924" y="905" name="inst_1A720" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="6501" y="1234" name="inst_1A721" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="5599" y="1263" name="inst_1A722" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="8033" y="1368" name="inst_1A723" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="9198" y="1078" name="inst_1A724" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="10364" y="1171" name="inst_1A725" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="7057" y="953" name="inst_1A726" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="5983" y="1301" name="inst_1A727" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="4587" y="941" name="inst_1A728" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="2985" y="1237" name="inst_1A729" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount2" x="1870" y="1045" name="inst_1A72A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="14636" y="671" name="inst_1A72B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="TTS1_AnimalCount1" x="1939" y="1043" name="inst_1A72C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Timer" x="0" y="48" name="inst_1A72D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="880" name="inst_1A72E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="784" name="inst_1A72F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="688" name="inst_1A730" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="592" name="inst_1A731" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="512" name="inst_1A732" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="416" name="inst_1A733" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="336" name="inst_1A734" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="256" name="inst_1A735" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="160" name="inst_1A736" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="80" name="inst_1A737" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="64" y="0" name="inst_1A738" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="734" name="inst_1A739" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="642" name="inst_1A73A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="556" name="inst_1A73B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="459" name="inst_1A73C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="365" name="inst_1A73D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="267" name="inst_1A73E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="174" name="inst_1A73F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="77" name="inst_1A740" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17966" y="-6" name="inst_1A741" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17994" y="1525" name="inst_1A742" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17994" y="1438" name="inst_1A743" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17994" y="1363" name="inst_1A744" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17994" y="1274" name="inst_1A745" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17994" y="1183" name="inst_1A746" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17994" y="1094" name="inst_1A747" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17994" y="998" name="inst_1A748" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="17994" y="920" name="inst_1A749" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="18025" y="841" name="inst_1A74A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
+    <instance objName="TailsLive" x="1056" y="1328" name="inst_1A519" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TailsLive" x="11265" y="1152" name="inst_1A51A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="256" y="928" name="inst_1A51B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="768" y="928" name="inst_1A51C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="1280" y="928" name="inst_1A51D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="2310" y="1280" name="inst_1A51E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="1184" y="1376" name="inst_1A51F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="1495" y="948" name="inst_1A520" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="1792" y="1088" name="inst_1A521" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="2821" y="1280" name="inst_1A522" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="3332" y="1280" name="inst_1A523" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="3430" y="1248" name="inst_1A524" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="3941" y="1248" name="inst_1A525" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="3836" y="1280" name="inst_1A526" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="4452" y="992" name="inst_1A527" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="4963" y="704" name="inst_1A528" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="5474" y="704" name="inst_1A529" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="5985" y="960" name="inst_1A52A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="5467" y="1344" name="inst_1A52B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="5971" y="1344" name="inst_1A52C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="6475" y="1344" name="inst_1A52D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="6930" y="992" name="inst_1A52E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="8552" y="1280" name="inst_1A52F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="7442" y="1280" name="inst_1A530" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="7955" y="1408" name="inst_1A531" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="9128" y="1120" name="inst_1A532" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="9632" y="1120" name="inst_1A533" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="9126" y="896" name="inst_1A534" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="9637" y="896" name="inst_1A535" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="10149" y="896" name="inst_1A536" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="10143" y="1216" name="inst_1A537" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="10654" y="1088" name="inst_1A538" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="10661" y="864" name="inst_1A539" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="11165" y="1088" name="inst_1A53A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="11676" y="960" name="inst_1A53B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="11172" y="832" name="inst_1A53C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="11683" y="848" name="inst_1A53D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="12194" y="848" name="inst_1A53E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="12698" y="608" name="inst_1A53F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="12187" y="1168" name="inst_1A540" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="12698" y="1408" name="inst_1A541" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="13209" y="1408" name="inst_1A542" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="13930" y="1408" name="inst_1A543" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="14441" y="1408" name="inst_1A544" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="14945" y="1136" name="inst_1A545" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4236" y="1151" name="inst_1A546" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4747" y="855" name="inst_1A547" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="880" name="inst_1A548" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="366" name="inst_1A549" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="958" name="inst_1A54A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="864" name="inst_1A54B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6714" y="1153" name="inst_1A54C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6714" y="1294" name="inst_1A54D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7145" y="1153" name="inst_1A54E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8251" y="1406" name="inst_1A54F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8829" y="799" name="inst_1A550" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8749" y="720" name="inst_1A551" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8671" y="533" name="inst_1A552" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8848" y="1277" name="inst_1A553" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="9846" y="1280" name="inst_1A554" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="10438" y="1156" name="inst_1A555" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11460" y="1028" name="inst_1A556" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11891" y="981" name="inst_1A557" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12482" y="768" name="inst_1A558" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12402" y="1328" name="inst_1A559" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14729" y="1298" name="inst_1A55A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="16" name="inst_1A55B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="1372" name="inst_1A55C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="1090" name="inst_1A55D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="8456" y="512" name="inst_1A55E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="7948" y="512" name="inst_1A55F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="7435" y="624" name="inst_1A560" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="6924" y="624" name="inst_1A561" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="6573" y="432" name="inst_1A562" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6788" y="496" name="inst_1A563" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7732" y="533" name="inst_1A564" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7657" y="1301" name="inst_1A565" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="PAUSER" x="32" y="16" name="inst_1A566" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="1495" y="995" name="inst_1A567" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="1495" y="1042" name="inst_1A568" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="1495" y="1089" name="inst_1A569" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="1325" name="inst_1A56A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="1278" name="inst_1A56B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="1231" name="inst_1A56C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="1184" name="inst_1A56D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="1137" name="inst_1A56E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="1043" name="inst_1A56F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="996" name="inst_1A570" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="887" y="949" name="inst_1A571" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4236" y="1245" name="inst_1A572" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4236" y="1198" name="inst_1A573" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4236" y="1105" name="inst_1A574" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4236" y="1059" name="inst_1A575" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4236" y="1012" name="inst_1A576" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4747" y="989" name="inst_1A577" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4747" y="943" name="inst_1A578" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4747" y="900" name="inst_1A579" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4747" y="809" name="inst_1A57A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4747" y="768" name="inst_1A57B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="4747" y="723" name="inst_1A57C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="726" name="inst_1A57D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="817" name="inst_1A57E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="771" name="inst_1A57F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="911" name="inst_1A580" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1005" name="inst_1A581" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1052" name="inst_1A582" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1099" name="inst_1A583" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1145" name="inst_1A584" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1192" name="inst_1A585" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1239" name="inst_1A586" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1286" name="inst_1A587" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1333" name="inst_1A588" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="5171" y="1341" name="inst_1A589" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="926" name="inst_1A58A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="973" name="inst_1A58B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="1020" name="inst_1A58C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="1066" name="inst_1A58D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="1113" name="inst_1A58E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="833" name="inst_1A58F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="786" name="inst_1A590" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="739" name="inst_1A591" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="692" name="inst_1A592" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="645" name="inst_1A593" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="600" name="inst_1A594" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="553" name="inst_1A595" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="507" name="inst_1A596" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="460" name="inst_1A597" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="413" name="inst_1A598" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="319" name="inst_1A599" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="272" name="inst_1A59A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="225" name="inst_1A59B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="179" name="inst_1A59C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="132" name="inst_1A59D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="84" name="inst_1A59E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6281" y="38" name="inst_1A59F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6788" y="453" name="inst_1A5A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6788" y="527" name="inst_1A5A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6714" y="1247" name="inst_1A5A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6714" y="1014" name="inst_1A5A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6714" y="1060" name="inst_1A5A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6714" y="1107" name="inst_1A5A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6714" y="1200" name="inst_1A5A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6714" y="1341" name="inst_1A5A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7145" y="1014" name="inst_1A5A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7145" y="1106" name="inst_1A5A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7145" y="1060" name="inst_1A5AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7145" y="1199" name="inst_1A5AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7145" y="1244" name="inst_1A5AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7145" y="1291" name="inst_1A5AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7732" y="580" name="inst_1A5AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7732" y="623" name="inst_1A5AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7657" y="1348" name="inst_1A5B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7657" y="1395" name="inst_1A5B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="7657" y="1442" name="inst_1A5B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8251" y="1359" name="inst_1A5B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8251" y="1312" name="inst_1A5B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="8467" y="1280" name="inst_1A5B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="9064" y="1120" name="inst_1A5B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8848" y="1231" name="inst_1A5B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8848" y="1185" name="inst_1A5B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8848" y="1141" name="inst_1A5B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8671" y="578" name="inst_1A5BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8671" y="624" name="inst_1A5BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8671" y="671" name="inst_1A5BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8671" y="717" name="inst_1A5BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8749" y="766" name="inst_1A5BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8749" y="812" name="inst_1A5BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8749" y="858" name="inst_1A5C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8829" y="846" name="inst_1A5C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="8829" y="888" name="inst_1A5C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12482" y="630" name="inst_1A5C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12482" y="677" name="inst_1A5C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12482" y="724" name="inst_1A5C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12482" y="814" name="inst_1A5C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12482" y="844" name="inst_1A5C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11460" y="981" name="inst_1A5C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11460" y="1075" name="inst_1A5C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11460" y="1085" name="inst_1A5CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11891" y="1028" name="inst_1A5CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11891" y="1075" name="inst_1A5CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11891" y="1122" name="inst_1A5CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11891" y="1169" name="inst_1A5CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12402" y="1189" name="inst_1A5CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12402" y="1236" name="inst_1A5D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12402" y="1283" name="inst_1A5D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12402" y="1375" name="inst_1A5D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12402" y="1421" name="inst_1A5D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14729" y="1157" name="inst_1A5D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14729" y="1204" name="inst_1A5D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14729" y="1251" name="inst_1A5D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14729" y="1345" name="inst_1A5D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14729" y="1392" name="inst_1A5D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14729" y="1424" name="inst_1A5D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="9847" y="1141" name="inst_1A5DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="9847" y="1188" name="inst_1A5DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="9847" y="1234" name="inst_1A5DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="10438" y="1109" name="inst_1A5DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="10438" y="1203" name="inst_1A5DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="10438" y="1218" name="inst_1A5DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Checker1" x="11753" y="896" name="inst_1A5E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="13591" y="1520" name="inst_1A5E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="13080" y="1520" name="inst_1A5E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="12584" y="1827" name="inst_1A5E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="12072" y="1658" name="inst_1A5E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="11561" y="1408" name="inst_1A5E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="14102" y="1520" name="inst_1A5E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="14611" y="1637" name="inst_1A5E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="15119" y="1422" name="inst_1A5E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="15623" y="1236" name="inst_1A5E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="15452" y="1136" name="inst_1A5EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15407" y="1258" name="inst_1A5EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15407" y="1303" name="inst_1A5EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15407" y="1348" name="inst_1A5ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15407" y="1395" name="inst_1A5EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15407" y="1433" name="inst_1A5EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14903" y="1443" name="inst_1A5F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14903" y="1490" name="inst_1A5F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14903" y="1537" name="inst_1A5F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14903" y="1583" name="inst_1A5F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14903" y="1629" name="inst_1A5F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14317" y="1541" name="inst_1A5F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14317" y="1587" name="inst_1A5F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14317" y="1634" name="inst_1A5F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12864" y="1535" name="inst_1A5F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12864" y="1582" name="inst_1A5F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12864" y="1629" name="inst_1A5FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12864" y="1675" name="inst_1A5FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12864" y="1721" name="inst_1A5FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12864" y="1768" name="inst_1A5FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12864" y="1815" name="inst_1A5FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12287" y="1679" name="inst_1A5FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12287" y="1725" name="inst_1A600" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12287" y="1771" name="inst_1A601" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="12287" y="1814" name="inst_1A602" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11776" y="1429" name="inst_1A603" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11776" y="1476" name="inst_1A604" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11776" y="1523" name="inst_1A605" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11776" y="1570" name="inst_1A606" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11776" y="1617" name="inst_1A607" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11776" y="1664" name="inst_1A608" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11264" y="1405" name="inst_1A609" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11264" y="1358" name="inst_1A60A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11264" y="1311" name="inst_1A60B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11264" y="1264" name="inst_1A60C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11264" y="1217" name="inst_1A60D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11264" y="1171" name="inst_1A60E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="11264" y="1125" name="inst_1A60F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="1099" name="inst_1A610" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="1052" name="inst_1A611" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="1005" name="inst_1A612" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="959" name="inst_1A613" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="913" name="inst_1A614" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="868" name="inst_1A615" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="824" name="inst_1A616" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="781" name="inst_1A617" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="736" name="inst_1A618" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="690" name="inst_1A619" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="644" name="inst_1A61A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="598" name="inst_1A61B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="551" name="inst_1A61C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="504" name="inst_1A61D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="457" name="inst_1A61E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="412" name="inst_1A61F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="367" name="inst_1A620" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="322" name="inst_1A621" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="276" name="inst_1A622" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="230" name="inst_1A623" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="183" name="inst_1A624" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="136" name="inst_1A625" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="90" name="inst_1A626" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="44" name="inst_1A627" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15016" y="3" name="inst_1A628" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15918" y="1232" name="inst_1A629" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15918" y="1186" name="inst_1A62A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15918" y="1140" name="inst_1A62B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="15918" y="1093" name="inst_1A62C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="13928" y="1497" name="inst_1A62D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="13928" y="1450" name="inst_1A62E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14042" y="1498" name="inst_1A62F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14042" y="1451" name="inst_1A630" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14148" y="1451" name="inst_1A631" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14148" y="1497" name="inst_1A632" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="13810" y="1451" name="inst_1A633" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="13810" y="1498" name="inst_1A634" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="13138" y="1451" name="inst_1A635" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="13138" y="1498" name="inst_1A636" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="12864" y="1451" name="inst_1A637" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="12864" y="1498" name="inst_1A638" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15490" y="1179" name="inst_1A639" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15490" y="1220" name="inst_1A63A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15667" y="1179" name="inst_1A63B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15667" y="1218" name="inst_1A63C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="16214" y="1187" name="inst_1A63D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="16134" y="1072" name="inst_1A63E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="15311" y="979" name="inst_1A63F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="15821" y="979" name="inst_1A640" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="16329" y="979" name="inst_1A641" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="16646" y="1072" name="inst_1A642" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="16724" y="1363" name="inst_1A643" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="17236" y="1583" name="inst_1A644" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="17157" y="1072" name="inst_1A645" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="17669" y="888" name="inst_1A646" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="18155" y="888" name="inst_1A647" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="17748" y="1583" name="inst_1A648" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17453" y="909" name="inst_1A649" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17453" y="955" name="inst_1A64A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17453" y="1001" name="inst_1A64B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17453" y="1047" name="inst_1A64C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17453" y="1069" name="inst_1A64D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16429" y="1208" name="inst_1A64E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16429" y="1255" name="inst_1A64F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16429" y="1302" name="inst_1A650" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16429" y="1347" name="inst_1A651" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16429" y="1358" name="inst_1A652" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16939" y="1384" name="inst_1A653" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16939" y="1429" name="inst_1A654" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16939" y="1476" name="inst_1A655" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16939" y="1522" name="inst_1A656" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16939" y="1568" name="inst_1A657" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="16939" y="1579" name="inst_1A658" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="16841" y="979" name="inst_1A659" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="17026" y="979" name="inst_1A65A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17241" y="936" name="inst_1A65B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17241" y="889" name="inst_1A65C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17241" y="842" name="inst_1A65D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="17241" y="798" name="inst_1A65E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="17538" y="795" name="inst_1A65F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="18021" y="795" name="inst_1A660" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="16283" y="1022" name="inst_1A661" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="16283" y="1049" name="inst_1A662" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="16506" y="1022" name="inst_1A663" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="16506" y="1053" name="inst_1A664" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="16774" y="1022" name="inst_1A665" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="16774" y="1054" name="inst_1A666" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="17084" y="1022" name="inst_1A667" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="17084" y="1053" name="inst_1A668" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="17700" y="838" name="inst_1A669" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="17700" y="862" name="inst_1A66A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="13208" y="608" name="inst_1A66B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="13719" y="727" name="inst_1A66C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="14231" y="727" name="inst_1A66D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="14720" y="530" name="inst_1A66E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14504" y="551" name="inst_1A66F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14504" y="598" name="inst_1A670" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14504" y="645" name="inst_1A671" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14504" y="692" name="inst_1A672" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="14504" y="722" name="inst_1A673" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="13423" y="629" name="inst_1A674" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="13423" y="676" name="inst_1A675" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="13423" y="723" name="inst_1A676" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="17944" y="838" name="inst_1A677" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="17944" y="862" name="inst_1A678" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14316" y="1451" name="inst_1A679" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14316" y="1498" name="inst_1A67A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14729" y="1471" name="inst_1A67B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14729" y="1518" name="inst_1A67C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14729" y="1565" name="inst_1A67D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="14729" y="1612" name="inst_1A67E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15203" y="1179" name="inst_1A67F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15203" y="1225" name="inst_1A680" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15203" y="1270" name="inst_1A681" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15203" y="1316" name="inst_1A682" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15203" y="1363" name="inst_1A683" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="15203" y="1396" name="inst_1A684" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="17453" y="838" name="inst_1A685" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_WallBrown" x="17453" y="862" name="inst_1A686" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6788" y="571" name="inst_1A687" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="6788" y="600" name="inst_1A688" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="13973" y="953" name="inst_1A689" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="14423" y="727" name="inst_1A68A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Checker0" x="1833" y="836" name="inst_1A68B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="1192" y="1090" name="inst_1A68C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1538" name="inst_1A68D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1492" name="inst_1A68E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1447" name="inst_1A68F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1401" name="inst_1A690" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1355" name="inst_1A691" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1309" name="inst_1A692" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1264" name="inst_1A693" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1218" name="inst_1A694" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1173" name="inst_1A695" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1129" name="inst_1A696" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1083" name="inst_1A697" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="1036" name="inst_1A698" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="989" name="inst_1A699" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="944" name="inst_1A69A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="18011" y="913" name="inst_1A69B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Ground" x="17444" y="795" name="inst_1A69C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="13677" y="950" name="inst_1A69D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="13677" y="905" name="inst_1A69E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="13677" y="859" name="inst_1A69F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="13677" y="813" name="inst_1A6A0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Wall" x="13677" y="769" name="inst_1A6A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Checker0" x="1834" y="355" name="inst_1A6A2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_InRing" x="233" y="793" name="inst_1A6A3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TC_Checker5" x="17999" y="849" name="inst_1A6A4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Checker3" x="6826" y="385" name="inst_1A6A5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_Checker3" x="14465" y="481" name="inst_1A6A6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11772" y="881" name="inst_1A6A7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="11798" y="882" name="inst_1A6A8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="12081" y="1123" name="inst_1A6A9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="12790" y="1364" name="inst_1A6AA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="13307" y="1364" name="inst_1A6AB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14371" y="1370" name="inst_1A6AC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14878" y="1093" name="inst_1A6AD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="12228" y="1618" name="inst_1A6AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11880" y="1618" name="inst_1A6AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11341" y="1346" name="inst_1A6B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11528" y="1342" name="inst_1A6B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11438" y="1215" name="inst_1A6B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11725" y="1207" name="inst_1A6B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15105" y="1361" name="inst_1A6B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15333" y="1365" name="inst_1A6B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15338" y="1083" name="inst_1A6B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15082" y="1041" name="inst_1A6B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="15268" y="1073" name="inst_1A6B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="15168" y="1047" name="inst_1A6B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="14833" y="1077" name="inst_1A6BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="11972" y="1600" name="inst_1A6BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12125" y="1594" name="inst_1A6BC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="11659" y="1334" name="inst_1A6BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="11419" y="1328" name="inst_1A6BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="11333" y="1278" name="inst_1A6BF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="15270" y="1351" name="inst_1A6C0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="15044" y="1372" name="inst_1A6C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12579" y="1337" name="inst_1A6C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="14412" y="1338" name="inst_1A6C3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12281" y="1094" name="inst_1A6C4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12163" y="1092" name="inst_1A6C5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="13144" y="1354" name="inst_1A6C6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12932" y="1322" name="inst_1A6C7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="14595" y="1351" name="inst_1A6C8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="14941" y="1064" name="inst_1A6C9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14528" y="1357" name="inst_1A6CA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14099" y="1351" name="inst_1A6CB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="13939" y="1366" name="inst_1A6CC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="13047" y="1473" name="inst_1A6CD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="12952" y="1478" name="inst_1A6CE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="13869" y="1476" name="inst_1A6CF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14482" y="1584" name="inst_1A6D0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14826" y="1590" name="inst_1A6D1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12434" y="1764" name="inst_1A6D2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12771" y="1771" name="inst_1A6D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12599" y="1763" name="inst_1A6D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="12053" y="1548" name="inst_1A6D5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11592" y="1337" name="inst_1A6D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11469" y="1308" name="inst_1A6D7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="12175" y="1587" name="inst_1A6D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="11837" y="1579" name="inst_1A6D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15423" y="1070" name="inst_1A6DA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15593" y="1076" name="inst_1A6DB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15664" y="1089" name="inst_1A6DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15574" y="1183" name="inst_1A6DD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15594" y="1185" name="inst_1A6DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14939" y="1308" name="inst_1A6DF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15140" y="1303" name="inst_1A6E0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14778" y="1019" name="inst_1A6E1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="13811" y="848" name="inst_1A6E2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16408" y="1020" name="inst_1A6E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16634" y="1021" name="inst_1A6E4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="16861" y="1022" name="inst_1A6E5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17002" y="1024" name="inst_1A6E6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17776" y="848" name="inst_1A6E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="17808" y="847" name="inst_1A6E8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17841" y="846" name="inst_1A6E9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16525" y="1297" name="inst_1A6EA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16937" y="1299" name="inst_1A6EB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16676" y="1230" name="inst_1A6EC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="17126" y="1522" name="inst_1A6ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="17725" y="1510" name="inst_1A6EE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="17872" y="1406" name="inst_1A6EF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="17425" y="1379" name="inst_1A6F0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="16704" y="1296" name="inst_1A6F1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="16828" y="1228" name="inst_1A6F2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="16599" y="1239" name="inst_1A6F3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17050" y="1484" name="inst_1A6F4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17266" y="1431" name="inst_1A6F5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17359" y="1473" name="inst_1A6F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17544" y="1399" name="inst_1A6F7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17554" y="1479" name="inst_1A6F8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17675" y="1416" name="inst_1A6F9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17451" y="1500" name="inst_1A6FA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17829" y="1488" name="inst_1A6FB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17949" y="1511" name="inst_1A6FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17788" y="1385" name="inst_1A6FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="15231" y="881" name="inst_1A6FE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="15633" y="865" name="inst_1A6FF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="15407" y="780" name="inst_1A700" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="16203" y="817" name="inst_1A701" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="16630" y="791" name="inst_1A702" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="16449" y="865" name="inst_1A703" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="16860" y="814" name="inst_1A704" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17078" y="879" name="inst_1A705" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17359" y="717" name="inst_1A706" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17545" y="660" name="inst_1A707" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17688" y="718" name="inst_1A708" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="17856" y="713" name="inst_1A709" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="17764" y="680" name="inst_1A70A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="17471" y="713" name="inst_1A70B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="17144" y="844" name="inst_1A70C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16994" y="867" name="inst_1A70D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16709" y="865" name="inst_1A70E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16794" y="892" name="inst_1A70F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16532" y="881" name="inst_1A710" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="16340" y="894" name="inst_1A711" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15994" y="873" name="inst_1A712" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15543" y="915" name="inst_1A713" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15782" y="776" name="inst_1A714" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15332" y="883" name="inst_1A715" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="15144" y="854" name="inst_1A716" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="13991" y="870" name="inst_1A717" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14174" y="838" name="inst_1A718" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="13753" y="809" name="inst_1A719" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="14100" y="826" name="inst_1A71A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="13955" y="794" name="inst_1A71B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="14580" y="673" name="inst_1A71C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="3835" y="1193" name="inst_1A71D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="4073" y="1187" name="inst_1A71E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="5288" y="633" name="inst_1A71F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="5924" y="905" name="inst_1A720" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="6501" y="1234" name="inst_1A721" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="5599" y="1263" name="inst_1A722" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="8033" y="1368" name="inst_1A723" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="9198" y="1078" name="inst_1A724" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="10364" y="1171" name="inst_1A725" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="7057" y="953" name="inst_1A726" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="5983" y="1301" name="inst_1A727" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="4587" y="941" name="inst_1A728" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="2985" y="1237" name="inst_1A729" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount2" x="1870" y="1045" name="inst_1A72A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="14636" y="671" name="inst_1A72B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="TTS1_AnimalCount1" x="1939" y="1043" name="inst_1A72C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Timer" x="0" y="48" name="inst_1A72D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="880" name="inst_1A72E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="784" name="inst_1A72F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="688" name="inst_1A730" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="592" name="inst_1A731" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="512" name="inst_1A732" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="416" name="inst_1A733" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="336" name="inst_1A734" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="256" name="inst_1A735" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="160" name="inst_1A736" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="80" name="inst_1A737" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="64" y="0" name="inst_1A738" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="734" name="inst_1A739" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="642" name="inst_1A73A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="556" name="inst_1A73B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="459" name="inst_1A73C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="365" name="inst_1A73D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="267" name="inst_1A73E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="174" name="inst_1A73F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="77" name="inst_1A740" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17966" y="-6" name="inst_1A741" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17994" y="1525" name="inst_1A742" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17994" y="1438" name="inst_1A743" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17994" y="1363" name="inst_1A744" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17994" y="1274" name="inst_1A745" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17994" y="1183" name="inst_1A746" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17994" y="1094" name="inst_1A747" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17994" y="998" name="inst_1A748" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="17994" y="920" name="inst_1A749" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="18025" y="841" name="inst_1A74A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
-    <tile bgName="backTS1_Background" x="10" y="832" w="500" h="79" xo="0" yo="0" id="10001619" name="inst_989CD3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="544" y="832" w="500" h="79" xo="0" yo="0" id="10001620" name="inst_989CD4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="1070" y="832" w="500" h="79" xo="0" yo="0" id="10001621" name="inst_989CD5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="930" y="1280" w="500" h="79" xo="0" yo="0" id="10001622" name="inst_989CD6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="2228" y="1184" w="500" h="79" xo="0" yo="0" id="10001623" name="inst_989CD7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="2754" y="1184" w="500" h="79" xo="0" yo="0" id="10001624" name="inst_989CD8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="3238" y="1152" w="500" h="79" xo="0" yo="0" id="10001625" name="inst_989CD9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="3742" y="1152" w="500" h="79" xo="0" yo="0" id="10001626" name="inst_989CDA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="4211" y="896" w="500" h="79" xo="0" yo="0" id="10001627" name="inst_989CDB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="4707" y="608" w="500" h="79" xo="0" yo="0" id="10001628" name="inst_989CDC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="5239" y="608" w="500" h="79" xo="0" yo="0" id="10001629" name="inst_989CDD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="5754" y="864" w="500" h="79" xo="0" yo="0" id="10001630" name="inst_989CDE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="5227" y="1248" w="500" h="79" xo="0" yo="0" id="10001631" name="inst_989CDF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="6142" y="1248" w="500" h="79" xo="0" yo="0" id="10001632" name="inst_989CE0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="6690" y="896" w="500" h="79" xo="0" yo="0" id="10001633" name="inst_989CE1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="7199" y="1184" w="500" h="79" xo="0" yo="0" id="10001634" name="inst_989CE2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="8295" y="1184" w="500" h="79" xo="0" yo="0" id="10001635" name="inst_989CE3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="8899" y="800" w="500" h="79" xo="0" yo="0" id="10001636" name="inst_989CE4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="9951" y="800" w="500" h="79" xo="0" yo="0" id="10001637" name="inst_989CE5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="9400" y="816" w="500" h="79" xo="0" yo="0" id="10001638" name="inst_989CE6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="8906" y="1024" w="500" h="79" xo="0" yo="0" id="10001639" name="inst_989CE7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="9404" y="1024" w="500" h="79" xo="0" yo="0" id="10001640" name="inst_989CE8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="9899" y="1120" w="500" h="79" xo="0" yo="0" id="10001641" name="inst_989CE9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="10406" y="768" w="500" h="79" xo="0" yo="0" id="10001642" name="inst_989CEA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="10891" y="992" w="500" h="79" xo="0" yo="0" id="10001643" name="inst_989CEB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="10414" y="992" w="500" h="79" xo="0" yo="0" id="10001644" name="inst_989CEC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="11446" y="752" w="500" h="79" xo="0" yo="0" id="10001645" name="inst_989CED" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="11949" y="752" w="500" h="79" xo="0" yo="0" id="10001646" name="inst_989CEE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="11944" y="1072" w="500" h="79" xo="0" yo="0" id="10001647" name="inst_989CEF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="12464" y="512" w="500" h="79" xo="0" yo="0" id="10001648" name="inst_989CF0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="12485" y="1312" w="500" h="79" xo="0" yo="0" id="10001649" name="inst_989CF1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="12984" y="1312" w="500" h="79" xo="0" yo="0" id="10001650" name="inst_989CF2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="13698" y="1312" w="500" h="79" xo="0" yo="0" id="10001651" name="inst_989CF3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="14214" y="1312" w="500" h="79" xo="0" yo="0" id="10001652" name="inst_989CF4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Background" x="14707" y="1040" w="500" h="79" xo="0" yo="0" id="10001653" name="inst_989CF5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="93" y="832" w="500" h="78" xo="0" yo="0" id="10001654" name="inst_989CF6" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="669" y="832" w="500" h="78" xo="0" yo="0" id="10001655" name="inst_989CF7" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="1052" y="832" w="500" h="78" xo="0" yo="0" id="10001656" name="inst_989CF8" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="1562" y="992" w="500" h="78" xo="0" yo="0" id="10001657" name="inst_989CF9" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="2120" y="1184" w="500" h="78" xo="0" yo="0" id="10001658" name="inst_989CFA" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="2683" y="1184" w="500" h="78" xo="0" yo="0" id="10001659" name="inst_989CFB" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="3319" y="1152" w="500" h="78" xo="0" yo="0" id="10001660" name="inst_989CFC" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="4809" y="608" w="500" h="78" xo="0" yo="0" id="10001661" name="inst_989CFD" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="5095" y="608" w="500" h="78" xo="0" yo="0" id="10001662" name="inst_989CFE" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="5500" y="1248" w="500" h="78" xo="0" yo="0" id="10001663" name="inst_989CFF" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="6006" y="1248" w="500" h="78" xo="0" yo="0" id="10001664" name="inst_989D00" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="7719" y="1312" w="500" h="78" xo="0" yo="0" id="10001665" name="inst_989D01" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="9014" y="1024" w="500" h="78" xo="0" yo="0" id="10001666" name="inst_989D02" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="10536" y="992" w="500" h="78" xo="0" yo="0" id="10001667" name="inst_989D03" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="10828" y="992" w="500" h="78" xo="0" yo="0" id="10001668" name="inst_989D04" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="11427" y="864" w="500" h="78" xo="0" yo="0" id="10001669" name="inst_989D05" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="12609" y="1312" w="500" h="78" xo="0" yo="0" id="10001670" name="inst_989D06" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
-    <tile bgName="backTS1_Foreground" x="13783" y="1312" w="500" h="78" xo="0" yo="0" id="10001671" name="inst_989D07" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1" />
+    <tile bgName="backTS1_Background" x="10" y="832" w="500" h="79" xo="0" yo="0" id="10001619" name="inst_989CD3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="544" y="832" w="500" h="79" xo="0" yo="0" id="10001620" name="inst_989CD4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="1070" y="832" w="500" h="79" xo="0" yo="0" id="10001621" name="inst_989CD5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="930" y="1280" w="500" h="79" xo="0" yo="0" id="10001622" name="inst_989CD6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="2228" y="1184" w="500" h="79" xo="0" yo="0" id="10001623" name="inst_989CD7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="2754" y="1184" w="500" h="79" xo="0" yo="0" id="10001624" name="inst_989CD8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="3238" y="1152" w="500" h="79" xo="0" yo="0" id="10001625" name="inst_989CD9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="3742" y="1152" w="500" h="79" xo="0" yo="0" id="10001626" name="inst_989CDA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="4211" y="896" w="500" h="79" xo="0" yo="0" id="10001627" name="inst_989CDB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="4707" y="608" w="500" h="79" xo="0" yo="0" id="10001628" name="inst_989CDC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="5239" y="608" w="500" h="79" xo="0" yo="0" id="10001629" name="inst_989CDD" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="5754" y="864" w="500" h="79" xo="0" yo="0" id="10001630" name="inst_989CDE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="5227" y="1248" w="500" h="79" xo="0" yo="0" id="10001631" name="inst_989CDF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="6142" y="1248" w="500" h="79" xo="0" yo="0" id="10001632" name="inst_989CE0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="6690" y="896" w="500" h="79" xo="0" yo="0" id="10001633" name="inst_989CE1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="7199" y="1184" w="500" h="79" xo="0" yo="0" id="10001634" name="inst_989CE2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="8295" y="1184" w="500" h="79" xo="0" yo="0" id="10001635" name="inst_989CE3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="8899" y="800" w="500" h="79" xo="0" yo="0" id="10001636" name="inst_989CE4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="9951" y="800" w="500" h="79" xo="0" yo="0" id="10001637" name="inst_989CE5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="9400" y="816" w="500" h="79" xo="0" yo="0" id="10001638" name="inst_989CE6" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="8906" y="1024" w="500" h="79" xo="0" yo="0" id="10001639" name="inst_989CE7" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="9404" y="1024" w="500" h="79" xo="0" yo="0" id="10001640" name="inst_989CE8" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="9899" y="1120" w="500" h="79" xo="0" yo="0" id="10001641" name="inst_989CE9" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="10406" y="768" w="500" h="79" xo="0" yo="0" id="10001642" name="inst_989CEA" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="10891" y="992" w="500" h="79" xo="0" yo="0" id="10001643" name="inst_989CEB" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="10414" y="992" w="500" h="79" xo="0" yo="0" id="10001644" name="inst_989CEC" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="11446" y="752" w="500" h="79" xo="0" yo="0" id="10001645" name="inst_989CED" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="11949" y="752" w="500" h="79" xo="0" yo="0" id="10001646" name="inst_989CEE" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="11944" y="1072" w="500" h="79" xo="0" yo="0" id="10001647" name="inst_989CEF" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="12464" y="512" w="500" h="79" xo="0" yo="0" id="10001648" name="inst_989CF0" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="12485" y="1312" w="500" h="79" xo="0" yo="0" id="10001649" name="inst_989CF1" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="12984" y="1312" w="500" h="79" xo="0" yo="0" id="10001650" name="inst_989CF2" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="13698" y="1312" w="500" h="79" xo="0" yo="0" id="10001651" name="inst_989CF3" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="14214" y="1312" w="500" h="79" xo="0" yo="0" id="10001652" name="inst_989CF4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Background" x="14707" y="1040" w="500" h="79" xo="0" yo="0" id="10001653" name="inst_989CF5" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="93" y="832" w="500" h="78" xo="0" yo="0" id="10001654" name="inst_989CF6" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="669" y="832" w="500" h="78" xo="0" yo="0" id="10001655" name="inst_989CF7" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="1052" y="832" w="500" h="78" xo="0" yo="0" id="10001656" name="inst_989CF8" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="1562" y="992" w="500" h="78" xo="0" yo="0" id="10001657" name="inst_989CF9" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="2120" y="1184" w="500" h="78" xo="0" yo="0" id="10001658" name="inst_989CFA" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="2683" y="1184" w="500" h="78" xo="0" yo="0" id="10001659" name="inst_989CFB" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="3319" y="1152" w="500" h="78" xo="0" yo="0" id="10001660" name="inst_989CFC" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="4809" y="608" w="500" h="78" xo="0" yo="0" id="10001661" name="inst_989CFD" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="5095" y="608" w="500" h="78" xo="0" yo="0" id="10001662" name="inst_989CFE" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="5500" y="1248" w="500" h="78" xo="0" yo="0" id="10001663" name="inst_989CFF" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="6006" y="1248" w="500" h="78" xo="0" yo="0" id="10001664" name="inst_989D00" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="7719" y="1312" w="500" h="78" xo="0" yo="0" id="10001665" name="inst_989D01" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="9014" y="1024" w="500" h="78" xo="0" yo="0" id="10001666" name="inst_989D02" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="10536" y="992" w="500" h="78" xo="0" yo="0" id="10001667" name="inst_989D03" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="10828" y="992" w="500" h="78" xo="0" yo="0" id="10001668" name="inst_989D04" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="11427" y="864" w="500" h="78" xo="0" yo="0" id="10001669" name="inst_989D05" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="12609" y="1312" w="500" h="78" xo="0" yo="0" id="10001670" name="inst_989D06" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
+    <tile bgName="backTS1_Foreground" x="13783" y="1312" w="500" h="78" xo="0" yo="0" id="10001671" name="inst_989D07" depth="-5000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
   </tiles>
-  <PhysicsWorld>false</PhysicsWorld>
+  <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
   <PhysicsWorldRight>640</PhysicsWorldRight>
   <PhysicsWorldBottom>480</PhysicsWorldBottom>
   <PhysicsWorldGravityX>0</PhysicsWorldGravityX>
   <PhysicsWorldGravityY>10</PhysicsWorldGravityY>
-  <PhysicsWorldPixToMeters>0.1</PhysicsWorldPixToMeters>
+  <PhysicsWorldPixToMeters>0.100000001490116</PhysicsWorldPixToMeters>
 </room>

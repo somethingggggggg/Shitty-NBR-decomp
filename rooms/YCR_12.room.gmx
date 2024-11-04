@@ -26,8 +26,7 @@ if ((global.MainPoint == 2) || (global.MainPoint == 3))
 {
     with (TailsLive)
         instance_destroy()
-}
-</code>
+}</code>
   <enableViews>-1</enableViews>
   <clearViewBackground>0</clearViewBackground>
   <clearDisplayBuffer>0</clearDisplayBuffer>
@@ -48,383 +47,383 @@ if ((global.MainPoint == 2) || (global.MainPoint == 3))
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backRedMist" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="-1" foreground="0" name="backRedMist" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="-1" vtiled="-1" hspeed="0" vspeed="0" stretch="0"/>
   </backgrounds>
   <views>
-    <view visible="-1" objName="YCR_InRing" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
-    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
+    <view visible="-1" objName="YCR_InRing" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
+    <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1"/>
   </views>
   <instances>
-    <instance objName="TailsLive" x="4480" y="848" name="inst_19C20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_BrokeWall1" x="2336" y="656" name="inst_19C21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_BrokeWall1" x="2400" y="656" name="inst_19C22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_BrokeWall1" x="2464" y="656" name="inst_19C23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_BrokeWall1" x="2528" y="656" name="inst_19C24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_BrokeWall1" x="6560" y="1064" name="inst_19C25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_BrokeWall1" x="6624" y="1064" name="inst_19C26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="639" y="578" name="inst_19C27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="2682" y="800" name="inst_19C28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="2540" y="298" name="inst_19C29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="3053" y="211" name="inst_19C2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="4475" y="560" name="inst_19C2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="6581" y="705" name="inst_19C2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="6011" y="1291" name="inst_19C2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="6770" y="1478" name="inst_19C2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="3440" y="976" name="inst_19C2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="3718" y="1086" name="inst_19C30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="5163" y="1087" name="inst_19C31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="6392" y="226" name="inst_19C32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="7501" y="221" name="inst_19C33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="5252" y="220" name="inst_19C34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Buzzsaw" x="5793" y="222" name="inst_19C35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2" x="1152" y="721" name="inst_19C36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2" x="1408" y="753" name="inst_19C37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2" x="3456" y="259" name="inst_19C38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2" x="3712" y="291" name="inst_19C39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2" x="3968" y="324" name="inst_19C3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2_2" x="5248" y="790" name="inst_19C3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2_2" x="5760" y="758" name="inst_19C3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2" x="4224" y="1249" name="inst_19C3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2" x="4480" y="1281" name="inst_19C3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground2" x="4736" y="1313" name="inst_19C3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="430" y="448" name="inst_19C40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="482" y="448" name="inst_19C41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="456" y="448" name="inst_19C42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Button" x="5889" y="212" name="inst_19C43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Checker1" x="259" y="256" name="inst_19C44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Button2" x="4274" y="773" name="inst_19C45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="1856" y="704" name="inst_19C46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="1888" y="704" name="inst_19C47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="1920" y="704" name="inst_19C48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="4384" y="528" name="inst_19C49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="4624" y="736" name="inst_19C4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="4624" y="704" name="inst_19C4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="6128" y="320" name="inst_19C4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="6176" y="320" name="inst_19C4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="6152" y="288" name="inst_19C4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="7016" y="1072" name="inst_19C4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="4320" y="576" name="inst_19C50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="4288" y="576" name="inst_19C51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="4256" y="576" name="inst_19C52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="4424" y="832" name="inst_19C53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="4536" y="832" name="inst_19C54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="3096" y="864" name="inst_19C55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Ring" x="3096" y="832" name="inst_19C56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_TailsOutRing" x="7912" y="339" name="inst_19C57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_KnucklesOutRing" x="7901" y="1394" name="inst_19C58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_InRing" x="81" y="398" name="inst_19C59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="128" y="608" name="inst_19C5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="384" y="608" name="inst_19C5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="640" y="704" name="inst_19C5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="896" y="800" name="inst_19C5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="1664" y="864" name="inst_19C5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="1920" y="864" name="inst_19C5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="2176" y="864" name="inst_19C60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="2432" y="428" name="inst_19C61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="2432" y="864" name="inst_19C62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="2688" y="428" name="inst_19C63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="2944" y="338" name="inst_19C64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="3200" y="338" name="inst_19C65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="4224" y="435" name="inst_19C66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="4480" y="690" name="inst_19C67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="4736" y="901" name="inst_19C68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="4992" y="901" name="inst_19C69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5504" y="869" name="inst_19C6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6016" y="837" name="inst_19C6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6272" y="837" name="inst_19C6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6528" y="837" name="inst_19C6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6784" y="684" name="inst_19C6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7040" y="544" name="inst_19C6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7296" y="544" name="inst_19C70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7552" y="544" name="inst_19C71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7808" y="544" name="inst_19C72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="8064" y="544" name="inst_19C73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7584" y="98" name="inst_19C74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7840" y="98" name="inst_19C75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="8096" y="98" name="inst_19C76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7328" y="98" name="inst_19C77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7072" y="98" name="inst_19C78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6816" y="98" name="inst_19C79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6560" y="98" name="inst_19C7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6304" y="98" name="inst_19C7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6048" y="98" name="inst_19C7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="2688" y="928" name="inst_19C7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="2944" y="1024" name="inst_19C7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="3200" y="1024" name="inst_19C7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="3456" y="1104" name="inst_19C80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="3712" y="1216" name="inst_19C81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="3968" y="1328" name="inst_19C82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="4992" y="1424" name="inst_19C83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5248" y="1424" name="inst_19C84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5504" y="1424" name="inst_19C85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5760" y="1282" name="inst_19C86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5760" y="927" name="inst_19C87" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5248" y="958" name="inst_19C88" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="3456" y="426" name="inst_19C89" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="3712" y="454" name="inst_19C8A" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="3968" y="499" name="inst_19C8B" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6016" y="1420" name="inst_19C8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6272" y="1530" name="inst_19C8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6656" y="1220" name="inst_19C8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6528" y="1607" name="inst_19C8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6784" y="1607" name="inst_19C90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7040" y="1607" name="inst_19C91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6912" y="1220" name="inst_19C92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7168" y="1089" name="inst_19C93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7424" y="1089" name="inst_19C94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7680" y="1089" name="inst_19C95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7936" y="1089" name="inst_19C96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7552" y="1607" name="inst_19C97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7808" y="1607" name="inst_19C98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="8064" y="1607" name="inst_19C99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7904" y="800" name="inst_19C9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7648" y="800" name="inst_19C9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7392" y="800" name="inst_19C9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="7296" y="1498" name="inst_19C9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5792" y="348" name="inst_19C9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5536" y="348" name="inst_19C9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5280" y="348" name="inst_19CA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5024" y="433" name="inst_19CA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5791" y="-38" name="inst_19CA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5535" y="10" name="inst_19CA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5280" y="-92" name="inst_19CA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="5023" y="4" name="inst_19CA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6048" y="482" name="inst_19CA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6304" y="482" name="inst_19CA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="6308" y="797" name="inst_19CA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="1319" y="315" name="inst_19CA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="1319" y="105" name="inst_19CAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="1969" y="357" name="inst_19CAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="1969" y="123" name="inst_19CAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Ground" x="4227" y="909" name="inst_19CAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="277" y="511" name="inst_19CAE" locked="0" code="Loud = 1&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="533" y="609" name="inst_19CAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="789" y="705" name="inst_19CB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="1141" y="719" name="inst_19CB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="1269" y="735" name="inst_19CB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="1397" y="751" name="inst_19CB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="1525" y="767" name="inst_19CB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="1557" y="767" name="inst_19CB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="2069" y="767" name="inst_19CB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="2325" y="769" name="inst_19CB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="2325" y="331" name="inst_19CB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="2581" y="332" name="inst_19CB9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="2837" y="241" name="inst_19CBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="3445" y="257" name="inst_19CBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="3829" y="306" name="inst_19CBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4117" y="339" name="inst_19CBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4084" y="338" name="inst_19CBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4629" y="804" name="inst_19CBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5131" y="804" name="inst_19CC0" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5259" y="788" name="inst_19CC1" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5771" y="757" name="inst_19CC2" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6165" y="740" name="inst_19CC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6421" y="741" name="inst_19CC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6677" y="587" name="inst_19CC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6933" y="447" name="inst_19CC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7189" y="447" name="inst_19CC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7445" y="447" name="inst_19CC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7701" y="447" name="inst_19CC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7957" y="447" name="inst_19CCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="2581" y="831" name="inst_19CCB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="3093" y="927" name="inst_19CCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="3349" y="1007" name="inst_19CCD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="3861" y="1231" name="inst_19CCE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4341" y="1266" name="inst_19CCF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4597" y="1296" name="inst_19CD0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4853" y="1327" name="inst_19CD1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4885" y="1328" name="inst_19CD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5141" y="1327" name="inst_19CD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5397" y="1327" name="inst_19CD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5653" y="1186" name="inst_19CD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5786" y="1185" name="inst_19CD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5783" y="1038" name="inst_19CD7" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5816" y="1185" name="inst_19CD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5831" y="1185" name="inst_19CD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5846" y="1185" name="inst_19CDA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5859" y="1185" name="inst_19CDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5798" y="1038" name="inst_19CDC" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5813" y="1038" name="inst_19CDD" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5830" y="1038" name="inst_19CDE" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5845" y="1038" name="inst_19CDF" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5860" y="1038" name="inst_19CE0" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5875" y="1038" name="inst_19CE1" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5801" y="1185" name="inst_19CE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5909" y="1325" name="inst_19CE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6164" y="1433" name="inst_19CE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6677" y="1508" name="inst_19CE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6933" y="1510" name="inst_19CE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6811" y="1331" name="inst_19CE7" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7189" y="1402" name="inst_19CE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7445" y="1510" name="inst_19CE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7957" y="1510" name="inst_19CEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7219" y="1201" name="inst_19CEB" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7379" y="1201" name="inst_19CEC" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7558" y="1201" name="inst_19CED" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7854" y="1201" name="inst_19CEE" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6804" y="1125" name="inst_19CEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7061" y="993" name="inst_19CF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7317" y="992" name="inst_19CF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7573" y="993" name="inst_19CF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7829" y="993" name="inst_19CF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6304" y="949" name="inst_19CF4" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6465" y="949" name="inst_19CF5" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6631" y="950" name="inst_19CF6" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5141" y="1054" name="inst_19CF7" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5339" y="1055" name="inst_19CF8" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5426" y="981" name="inst_19CF9" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5588" y="981" name="inst_19CFA" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7098" y="210" name="inst_19CFB" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7424" y="209" name="inst_19CFC" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="7861" y="210" name="inst_19CFD" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="2280" y="418" name="inst_19CFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="2792" y="285" name="inst_19CFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="4375" y="425" name="inst_19D00" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="4632" y="680" name="inst_19D01" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="6632" y="673" name="inst_19D02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="6888" y="534" name="inst_19D03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="7016" y="1079" name="inst_19D04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="7241" y="790" name="inst_19D05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="6504" y="1210" name="inst_19D06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="5608" y="1272" name="inst_19D07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="5896" y="88" name="inst_19D08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="3861" y="594" name="inst_19D09" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="3605" y="549" name="inst_19D0A" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="3349" y="521" name="inst_19D0B" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4917" y="340" name="inst_19D0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5173" y="252" name="inst_19D0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5429" y="252" name="inst_19D0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="5685" y="252" name="inst_19D0F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="4882" y="106" name="inst_19D10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="5906" y="125" name="inst_19D11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6165" y="740" name="inst_19D12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6150" y="740" name="inst_19D13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6135" y="740" name="inst_19D14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6121" y="740" name="inst_19D15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6106" y="740" name="inst_19D16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6091" y="740" name="inst_19D17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6076" y="740" name="inst_19D18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6061" y="740" name="inst_19D19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6046" y="740" name="inst_19D1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6041" y="594" name="inst_19D1B" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6056" y="594" name="inst_19D1C" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6071" y="594" name="inst_19D1D" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6086" y="594" name="inst_19D1E" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6101" y="594" name="inst_19D1F" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6118" y="594" name="inst_19D20" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6133" y="594" name="inst_19D21" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="6148" y="594" name="inst_19D22" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="1238" y="427" name="inst_19D23" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="1406" y="427" name="inst_19D24" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="1880" y="468" name="inst_19D25" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="2050" y="469" name="inst_19D26" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="1817" y="347" name="inst_19D27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="2121" y="317" name="inst_19D28" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="1168" y="406" name="inst_19D29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="1828" y="459" name="inst_19D2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource" x="4120" y="813" name="inst_19D2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource2" x="4328" y="680" name="inst_19D2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_FireSource3" x="1958" y="88" name="inst_19D2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Activator1" x="6108" y="678" name="inst_19D2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="YCR_Activator2" x="5827" y="1106" name="inst_19D2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5888" y="32" name="inst_19D30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5792" y="32" name="inst_19D31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5696" y="32" name="inst_19D32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5600" y="32" name="inst_19D33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5504" y="32" name="inst_19D34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5408" y="32" name="inst_19D35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5312" y="32" name="inst_19D36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5216" y="32" name="inst_19D37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5120" y="32" name="inst_19D38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="5024" y="32" name="inst_19D39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4928" y="32" name="inst_19D3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4832" y="32" name="inst_19D3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4736" y="32" name="inst_19D3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4640" y="32" name="inst_19D3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4544" y="32" name="inst_19D3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4448" y="32" name="inst_19D3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4352" y="32" name="inst_19D40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4256" y="32" name="inst_19D41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4160" y="32" name="inst_19D42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="4064" y="32" name="inst_19D43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3968" y="32" name="inst_19D44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3872" y="32" name="inst_19D45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3776" y="32" name="inst_19D46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3680" y="32" name="inst_19D47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3584" y="32" name="inst_19D48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3488" y="32" name="inst_19D49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3392" y="32" name="inst_19D4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3296" y="32" name="inst_19D4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3200" y="32" name="inst_19D4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3104" y="32" name="inst_19D4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="3008" y="32" name="inst_19D4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2912" y="32" name="inst_19D4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2816" y="32" name="inst_19D50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2720" y="32" name="inst_19D51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2624" y="32" name="inst_19D52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2528" y="32" name="inst_19D53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2432" y="32" name="inst_19D54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2336" y="32" name="inst_19D55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2240" y="32" name="inst_19D56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2144" y="32" name="inst_19D57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="2048" y="32" name="inst_19D58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1952" y="32" name="inst_19D59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1856" y="32" name="inst_19D5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1760" y="32" name="inst_19D5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1664" y="32" name="inst_19D5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1568" y="32" name="inst_19D5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1472" y="32" name="inst_19D5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1376" y="32" name="inst_19D5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1280" y="32" name="inst_19D60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1184" y="32" name="inst_19D61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="1088" y="32" name="inst_19D62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="992" y="32" name="inst_19D63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="896" y="32" name="inst_19D64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="800" y="32" name="inst_19D65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="704" y="32" name="inst_19D66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="608" y="32" name="inst_19D67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="512" y="32" name="inst_19D68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="416" y="32" name="inst_19D69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="320" y="32" name="inst_19D6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="224" y="32" name="inst_19D6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="160" y="32" name="inst_19D6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="VerticalSolid_Line" x="64" y="32" name="inst_19D6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="8000" y="371" name="inst_19D6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="8000" y="275" name="inst_19D6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="32" y="455" name="inst_19D70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="32" y="371" name="inst_19D71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="32" y="283" name="inst_19D72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="32" y="202" name="inst_19D73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="32" y="114" name="inst_19D74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="32" y="42" name="inst_19D75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="7968" y="368" name="inst_19D76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="7968" y="272" name="inst_19D77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="7968" y="1460" name="inst_19D78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="7968" y="1370" name="inst_19D79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="7968" y="1271" name="inst_19D7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="7968" y="1235" name="inst_19D7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="7968" y="942" name="inst_19D7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
+    <instance objName="TailsLive" x="4480" y="848" name="inst_19C20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_BrokeWall1" x="2336" y="656" name="inst_19C21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_BrokeWall1" x="2400" y="656" name="inst_19C22" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_BrokeWall1" x="2464" y="656" name="inst_19C23" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_BrokeWall1" x="2528" y="656" name="inst_19C24" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_BrokeWall1" x="6560" y="1064" name="inst_19C25" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_BrokeWall1" x="6624" y="1064" name="inst_19C26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="639" y="578" name="inst_19C27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="2682" y="800" name="inst_19C28" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="2540" y="298" name="inst_19C29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="3053" y="211" name="inst_19C2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="4475" y="560" name="inst_19C2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="6581" y="705" name="inst_19C2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="6011" y="1291" name="inst_19C2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="6770" y="1478" name="inst_19C2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="3440" y="976" name="inst_19C2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="3718" y="1086" name="inst_19C30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="5163" y="1087" name="inst_19C31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="6392" y="226" name="inst_19C32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="7501" y="221" name="inst_19C33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="5252" y="220" name="inst_19C34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Buzzsaw" x="5793" y="222" name="inst_19C35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2" x="1152" y="721" name="inst_19C36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2" x="1408" y="753" name="inst_19C37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2" x="3456" y="259" name="inst_19C38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2" x="3712" y="291" name="inst_19C39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2" x="3968" y="324" name="inst_19C3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2_2" x="5248" y="790" name="inst_19C3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2_2" x="5760" y="758" name="inst_19C3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2" x="4224" y="1249" name="inst_19C3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2" x="4480" y="1281" name="inst_19C3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground2" x="4736" y="1313" name="inst_19C3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="430" y="448" name="inst_19C40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="482" y="448" name="inst_19C41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="456" y="448" name="inst_19C42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Button" x="5889" y="212" name="inst_19C43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Checker1" x="259" y="256" name="inst_19C44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Button2" x="4274" y="773" name="inst_19C45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="1856" y="704" name="inst_19C46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="1888" y="704" name="inst_19C47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="1920" y="704" name="inst_19C48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="4384" y="528" name="inst_19C49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="4624" y="736" name="inst_19C4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="4624" y="704" name="inst_19C4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="6128" y="320" name="inst_19C4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="6176" y="320" name="inst_19C4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="6152" y="288" name="inst_19C4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="7016" y="1072" name="inst_19C4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="4320" y="576" name="inst_19C50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="4288" y="576" name="inst_19C51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="4256" y="576" name="inst_19C52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="4424" y="832" name="inst_19C53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="4536" y="832" name="inst_19C54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="3096" y="864" name="inst_19C55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Ring" x="3096" y="832" name="inst_19C56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_TailsOutRing" x="7912" y="339" name="inst_19C57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_KnucklesOutRing" x="7901" y="1394" name="inst_19C58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_InRing" x="81" y="398" name="inst_19C59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="128" y="608" name="inst_19C5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="384" y="608" name="inst_19C5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="640" y="704" name="inst_19C5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="896" y="800" name="inst_19C5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="1664" y="864" name="inst_19C5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="1920" y="864" name="inst_19C5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="2176" y="864" name="inst_19C60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="2432" y="428" name="inst_19C61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="2432" y="864" name="inst_19C62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="2688" y="428" name="inst_19C63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="2944" y="338" name="inst_19C64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="3200" y="338" name="inst_19C65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="4224" y="435" name="inst_19C66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="4480" y="690" name="inst_19C67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="4736" y="901" name="inst_19C68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="4992" y="901" name="inst_19C69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5504" y="869" name="inst_19C6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6016" y="837" name="inst_19C6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6272" y="837" name="inst_19C6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6528" y="837" name="inst_19C6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6784" y="684" name="inst_19C6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7040" y="544" name="inst_19C6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7296" y="544" name="inst_19C70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7552" y="544" name="inst_19C71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7808" y="544" name="inst_19C72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="8064" y="544" name="inst_19C73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7584" y="98" name="inst_19C74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7840" y="98" name="inst_19C75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="8096" y="98" name="inst_19C76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7328" y="98" name="inst_19C77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7072" y="98" name="inst_19C78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6816" y="98" name="inst_19C79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6560" y="98" name="inst_19C7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6304" y="98" name="inst_19C7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6048" y="98" name="inst_19C7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="2688" y="928" name="inst_19C7D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="2944" y="1024" name="inst_19C7E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="3200" y="1024" name="inst_19C7F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="3456" y="1104" name="inst_19C80" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="3712" y="1216" name="inst_19C81" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="3968" y="1328" name="inst_19C82" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="4992" y="1424" name="inst_19C83" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5248" y="1424" name="inst_19C84" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5504" y="1424" name="inst_19C85" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5760" y="1282" name="inst_19C86" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5760" y="927" name="inst_19C87" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5248" y="958" name="inst_19C88" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="3456" y="426" name="inst_19C89" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="3712" y="454" name="inst_19C8A" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="3968" y="499" name="inst_19C8B" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6016" y="1420" name="inst_19C8C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6272" y="1530" name="inst_19C8D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6656" y="1220" name="inst_19C8E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6528" y="1607" name="inst_19C8F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6784" y="1607" name="inst_19C90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7040" y="1607" name="inst_19C91" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6912" y="1220" name="inst_19C92" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7168" y="1089" name="inst_19C93" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7424" y="1089" name="inst_19C94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7680" y="1089" name="inst_19C95" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7936" y="1089" name="inst_19C96" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7552" y="1607" name="inst_19C97" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7808" y="1607" name="inst_19C98" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="8064" y="1607" name="inst_19C99" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7904" y="800" name="inst_19C9A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7648" y="800" name="inst_19C9B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7392" y="800" name="inst_19C9C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="7296" y="1498" name="inst_19C9D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5792" y="348" name="inst_19C9E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5536" y="348" name="inst_19C9F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5280" y="348" name="inst_19CA0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5024" y="433" name="inst_19CA1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5791" y="-38" name="inst_19CA2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5535" y="10" name="inst_19CA3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5280" y="-92" name="inst_19CA4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="5023" y="4" name="inst_19CA5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6048" y="482" name="inst_19CA6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6304" y="482" name="inst_19CA7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="6308" y="797" name="inst_19CA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="1319" y="315" name="inst_19CA9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="1319" y="105" name="inst_19CAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="1969" y="357" name="inst_19CAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="1969" y="123" name="inst_19CAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Ground" x="4227" y="909" name="inst_19CAD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="277" y="511" name="inst_19CAE" locked="0" code="Loud = 1&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="533" y="609" name="inst_19CAF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="789" y="705" name="inst_19CB0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="1141" y="719" name="inst_19CB1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="1269" y="735" name="inst_19CB2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="1397" y="751" name="inst_19CB3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="1525" y="767" name="inst_19CB4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="1557" y="767" name="inst_19CB5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="2069" y="767" name="inst_19CB6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="2325" y="769" name="inst_19CB7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="2325" y="331" name="inst_19CB8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="2581" y="332" name="inst_19CB9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="2837" y="241" name="inst_19CBA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="3445" y="257" name="inst_19CBB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="3829" y="306" name="inst_19CBC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4117" y="339" name="inst_19CBD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4084" y="338" name="inst_19CBE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4629" y="804" name="inst_19CBF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5131" y="804" name="inst_19CC0" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5259" y="788" name="inst_19CC1" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5771" y="757" name="inst_19CC2" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6165" y="740" name="inst_19CC3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6421" y="741" name="inst_19CC4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6677" y="587" name="inst_19CC5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6933" y="447" name="inst_19CC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7189" y="447" name="inst_19CC7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7445" y="447" name="inst_19CC8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7701" y="447" name="inst_19CC9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7957" y="447" name="inst_19CCA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="2581" y="831" name="inst_19CCB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="3093" y="927" name="inst_19CCC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="3349" y="1007" name="inst_19CCD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="3861" y="1231" name="inst_19CCE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4341" y="1266" name="inst_19CCF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4597" y="1296" name="inst_19CD0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4853" y="1327" name="inst_19CD1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4885" y="1328" name="inst_19CD2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5141" y="1327" name="inst_19CD3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5397" y="1327" name="inst_19CD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5653" y="1186" name="inst_19CD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5786" y="1185" name="inst_19CD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5783" y="1038" name="inst_19CD7" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5816" y="1185" name="inst_19CD8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5831" y="1185" name="inst_19CD9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5846" y="1185" name="inst_19CDA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5859" y="1185" name="inst_19CDB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5798" y="1038" name="inst_19CDC" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5813" y="1038" name="inst_19CDD" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5830" y="1038" name="inst_19CDE" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5845" y="1038" name="inst_19CDF" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5860" y="1038" name="inst_19CE0" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5875" y="1038" name="inst_19CE1" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5801" y="1185" name="inst_19CE2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5909" y="1325" name="inst_19CE3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6164" y="1433" name="inst_19CE4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6677" y="1508" name="inst_19CE5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6933" y="1510" name="inst_19CE6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6811" y="1331" name="inst_19CE7" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7189" y="1402" name="inst_19CE8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7445" y="1510" name="inst_19CE9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7957" y="1510" name="inst_19CEA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7219" y="1201" name="inst_19CEB" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7379" y="1201" name="inst_19CEC" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7558" y="1201" name="inst_19CED" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7854" y="1201" name="inst_19CEE" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6804" y="1125" name="inst_19CEF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7061" y="993" name="inst_19CF0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7317" y="992" name="inst_19CF1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7573" y="993" name="inst_19CF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7829" y="993" name="inst_19CF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6304" y="949" name="inst_19CF4" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6465" y="949" name="inst_19CF5" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6631" y="950" name="inst_19CF6" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5141" y="1054" name="inst_19CF7" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5339" y="1055" name="inst_19CF8" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5426" y="981" name="inst_19CF9" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5588" y="981" name="inst_19CFA" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7098" y="210" name="inst_19CFB" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7424" y="209" name="inst_19CFC" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="7861" y="210" name="inst_19CFD" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="2280" y="418" name="inst_19CFE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="2792" y="285" name="inst_19CFF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="4375" y="425" name="inst_19D00" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="4632" y="680" name="inst_19D01" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="6632" y="673" name="inst_19D02" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="6888" y="534" name="inst_19D03" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="7016" y="1079" name="inst_19D04" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="7241" y="790" name="inst_19D05" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="6504" y="1210" name="inst_19D06" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="5608" y="1272" name="inst_19D07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="5896" y="88" name="inst_19D08" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="3861" y="594" name="inst_19D09" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="3605" y="549" name="inst_19D0A" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="3349" y="521" name="inst_19D0B" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4917" y="340" name="inst_19D0C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5173" y="252" name="inst_19D0D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5429" y="252" name="inst_19D0E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="5685" y="252" name="inst_19D0F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="4882" y="106" name="inst_19D10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="5906" y="125" name="inst_19D11" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6165" y="740" name="inst_19D12" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6150" y="740" name="inst_19D13" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6135" y="740" name="inst_19D14" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6121" y="740" name="inst_19D15" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6106" y="740" name="inst_19D16" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6091" y="740" name="inst_19D17" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6076" y="740" name="inst_19D18" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6061" y="740" name="inst_19D19" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6046" y="740" name="inst_19D1A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6041" y="594" name="inst_19D1B" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6056" y="594" name="inst_19D1C" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6071" y="594" name="inst_19D1D" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6086" y="594" name="inst_19D1E" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6101" y="594" name="inst_19D1F" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6118" y="594" name="inst_19D20" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6133" y="594" name="inst_19D21" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="6148" y="594" name="inst_19D22" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="1238" y="427" name="inst_19D23" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="1406" y="427" name="inst_19D24" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="1880" y="468" name="inst_19D25" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="2050" y="469" name="inst_19D26" locked="0" code="" scaleX="1" scaleY="-1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="1817" y="347" name="inst_19D27" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="2121" y="317" name="inst_19D28" locked="0" code="" scaleX="-1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="1168" y="406" name="inst_19D29" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="1828" y="459" name="inst_19D2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource" x="4120" y="813" name="inst_19D2B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource2" x="4328" y="680" name="inst_19D2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_FireSource3" x="1958" y="88" name="inst_19D2D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Activator1" x="6108" y="678" name="inst_19D2E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="YCR_Activator2" x="5827" y="1106" name="inst_19D2F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5888" y="32" name="inst_19D30" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5792" y="32" name="inst_19D31" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5696" y="32" name="inst_19D32" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5600" y="32" name="inst_19D33" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5504" y="32" name="inst_19D34" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5408" y="32" name="inst_19D35" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5312" y="32" name="inst_19D36" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5216" y="32" name="inst_19D37" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5120" y="32" name="inst_19D38" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="5024" y="32" name="inst_19D39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4928" y="32" name="inst_19D3A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4832" y="32" name="inst_19D3B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4736" y="32" name="inst_19D3C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4640" y="32" name="inst_19D3D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4544" y="32" name="inst_19D3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4448" y="32" name="inst_19D3F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4352" y="32" name="inst_19D40" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4256" y="32" name="inst_19D41" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4160" y="32" name="inst_19D42" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="4064" y="32" name="inst_19D43" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3968" y="32" name="inst_19D44" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3872" y="32" name="inst_19D45" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3776" y="32" name="inst_19D46" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3680" y="32" name="inst_19D47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3584" y="32" name="inst_19D48" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3488" y="32" name="inst_19D49" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3392" y="32" name="inst_19D4A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3296" y="32" name="inst_19D4B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3200" y="32" name="inst_19D4C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3104" y="32" name="inst_19D4D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="3008" y="32" name="inst_19D4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2912" y="32" name="inst_19D4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2816" y="32" name="inst_19D50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2720" y="32" name="inst_19D51" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2624" y="32" name="inst_19D52" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2528" y="32" name="inst_19D53" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2432" y="32" name="inst_19D54" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2336" y="32" name="inst_19D55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2240" y="32" name="inst_19D56" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2144" y="32" name="inst_19D57" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="2048" y="32" name="inst_19D58" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1952" y="32" name="inst_19D59" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1856" y="32" name="inst_19D5A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1760" y="32" name="inst_19D5B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1664" y="32" name="inst_19D5C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1568" y="32" name="inst_19D5D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1472" y="32" name="inst_19D5E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1376" y="32" name="inst_19D5F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1280" y="32" name="inst_19D60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1184" y="32" name="inst_19D61" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="1088" y="32" name="inst_19D62" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="992" y="32" name="inst_19D63" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="896" y="32" name="inst_19D64" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="800" y="32" name="inst_19D65" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="704" y="32" name="inst_19D66" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="608" y="32" name="inst_19D67" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="512" y="32" name="inst_19D68" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="416" y="32" name="inst_19D69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="320" y="32" name="inst_19D6A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="224" y="32" name="inst_19D6B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="160" y="32" name="inst_19D6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="VerticalSolid_Line" x="64" y="32" name="inst_19D6D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="8000" y="371" name="inst_19D6E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="8000" y="275" name="inst_19D6F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="32" y="455" name="inst_19D70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="32" y="371" name="inst_19D71" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="32" y="283" name="inst_19D72" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="32" y="202" name="inst_19D73" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="32" y="114" name="inst_19D74" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="32" y="42" name="inst_19D75" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="7968" y="368" name="inst_19D76" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="7968" y="272" name="inst_19D77" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="7968" y="1460" name="inst_19D78" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="7968" y="1370" name="inst_19D79" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="7968" y="1271" name="inst_19D7A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="7968" y="1235" name="inst_19D7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Solid_Line" x="7968" y="942" name="inst_19D7C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
-  <tiles />
-  <PhysicsWorld>false</PhysicsWorld>
+  <tiles/>
+  <PhysicsWorld>0</PhysicsWorld>
   <PhysicsWorldTop>0</PhysicsWorldTop>
   <PhysicsWorldLeft>0</PhysicsWorldLeft>
   <PhysicsWorldRight>640</PhysicsWorldRight>
   <PhysicsWorldBottom>480</PhysicsWorldBottom>
   <PhysicsWorldGravityX>0</PhysicsWorldGravityX>
   <PhysicsWorldGravityY>10</PhysicsWorldGravityY>
-  <PhysicsWorldPixToMeters>0.1</PhysicsWorldPixToMeters>
+  <PhysicsWorldPixToMeters>0.100000001490116</PhysicsWorldPixToMeters>
 </room>

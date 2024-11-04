@@ -196,7 +196,7 @@ image_alpha = 1
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="25">
+    <event eventtype="4" ename="objSlopeParent1">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -234,7 +234,7 @@ image_alpha = 1
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="22">
+    <event eventtype="4" ename="Solid_Line">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -286,7 +286,7 @@ if (rolling == 1)
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="21">
+    <event eventtype="4" ename="Break_Mask">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -363,7 +363,7 @@ if ((place_meeting((bbox_right + 1), y, Break_Mask)) || (place_meeting((bbox_lef
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="20">
+    <event eventtype="4" ename="Solid_Mask">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -521,15 +521,15 @@ instance_destroy()
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>0</PhysicsObjectShape>
   <PhysicsObjectDensity>0.5</PhysicsObjectDensity>
-  <PhysicsObjectRestitution>0.1</PhysicsObjectRestitution>
+  <PhysicsObjectRestitution>0.100000001490116</PhysicsObjectRestitution>
   <PhysicsObjectGroup>0</PhysicsObjectGroup>
-  <PhysicsObjectLinearDamping>0.1</PhysicsObjectLinearDamping>
-  <PhysicsObjectAngularDamping>0.1</PhysicsObjectAngularDamping>
-  <PhysicsObjectFriction>0.2</PhysicsObjectFriction>
+  <PhysicsObjectLinearDamping>0.100000001490116</PhysicsObjectLinearDamping>
+  <PhysicsObjectAngularDamping>0.100000001490116</PhysicsObjectAngularDamping>
+  <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <points>0,0</points>
-    <points>20,20</points>
+    <point>0,0</point>
+    <point>20,20</point>
   </PhysicsShapePoints>
 </object>

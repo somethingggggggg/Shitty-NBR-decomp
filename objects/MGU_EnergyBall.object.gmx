@@ -170,7 +170,7 @@ else if (Act69 == 0)
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="256">
+    <event eventtype="4" ename="MGU_Exetior">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -204,7 +204,7 @@ else if (Act69 == 0)
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="255">
+    <event eventtype="4" ename="MGU_Metal">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -246,7 +246,7 @@ else if (Act69 == 0)
         </arguments>
       </action>
     </event>
-    <event eventtype="4" enumb="253">
+    <event eventtype="4" ename="MGU_BlockShield">
       <action>
         <libid>1</libid>
         <id>603</id>
@@ -275,15 +275,15 @@ MGU_Exetior.sprite_index = sprExetiorLookDownConfused
   <PhysicsObjectSensor>0</PhysicsObjectSensor>
   <PhysicsObjectShape>0</PhysicsObjectShape>
   <PhysicsObjectDensity>0.5</PhysicsObjectDensity>
-  <PhysicsObjectRestitution>0.1</PhysicsObjectRestitution>
+  <PhysicsObjectRestitution>0.100000001490116</PhysicsObjectRestitution>
   <PhysicsObjectGroup>0</PhysicsObjectGroup>
-  <PhysicsObjectLinearDamping>0.1</PhysicsObjectLinearDamping>
-  <PhysicsObjectAngularDamping>0.1</PhysicsObjectAngularDamping>
-  <PhysicsObjectFriction>0.2</PhysicsObjectFriction>
+  <PhysicsObjectLinearDamping>0.100000001490116</PhysicsObjectLinearDamping>
+  <PhysicsObjectAngularDamping>0.100000001490116</PhysicsObjectAngularDamping>
+  <PhysicsObjectFriction>0.200000002980232</PhysicsObjectFriction>
   <PhysicsObjectAwake>-1</PhysicsObjectAwake>
   <PhysicsObjectKinematic>0</PhysicsObjectKinematic>
   <PhysicsShapePoints>
-    <points>0,0</points>
-    <points>12,12</points>
+    <point>0,0</point>
+    <point>12,12</point>
   </PhysicsShapePoints>
 </object>
