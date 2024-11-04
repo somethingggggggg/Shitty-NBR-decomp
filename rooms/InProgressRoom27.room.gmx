@@ -10,13 +10,8 @@
   <persistent>0</persistent>
   <colour>0</colour>
   <showcolour>-1</showcolour>
-  <code>audio_play_music(6, 1)
-background_hspeed[0] = -0.5
-with (GOD_OBJECT)
-{
-    BaseAlert_Light = 0
-    Fade_Mode = 0
-}
+  <code>audio_stop_all()
+audio_stop_music()
 </code>
   <enableViews>-1</enableViews>
   <clearViewBackground>0</clearViewBackground>
@@ -38,7 +33,7 @@ with (GOD_OBJECT)
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="-1" foreground="0" name="backRedMist" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
@@ -48,7 +43,7 @@ with (GOD_OBJECT)
     <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
   </backgrounds>
   <views>
-    <view visible="-1" objName="&lt;undefined&gt;" xview="0" yview="21" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />
+    <view visible="-1" objName="&lt;undefined&gt;" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
@@ -58,23 +53,7 @@ with (GOD_OBJECT)
     <view visible="0" objName="&lt;undefined&gt;" xview="0" yview="0" wview="640" hview="480" xport="0" yport="0" wport="640" hport="480" hborder="32" vborder="32" hspeed="-1" vspeed="-1" />
   </views>
   <instances>
-    <instance objName="MS_1" x="64" y="128" name="inst_186AE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_2" x="160" y="128" name="inst_186AF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_3" x="256" y="128" name="inst_186B0" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_DS" x="160" y="256" name="inst_186B1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="RF_DataSelect" x="0" y="0" name="inst_186B2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_4" x="64" y="128" name="inst_186B3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_Lock" x="64" y="192" name="inst_186B4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_Lock" x="160" y="192" name="inst_186B5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_Lock" x="256" y="192" name="inst_186B6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_DT" x="64" y="68" name="inst_186B7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_DK" x="160" y="66" name="inst_186B8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="MS_DE" x="256" y="66" name="inst_186B9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="320" y="192" name="inst_186BA" locked="0" code="" scaleX="1" scaleY="3,38" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="0" y="160" name="inst_186BB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="0" y="160" name="inst_186BC" locked="0" code="" scaleX="1" scaleY="3,06" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="-32" y="160" name="inst_186BD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
-    <instance objName="Solid_Line" x="384" y="160" name="inst_186BE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
+    <instance objName="InProgress_Jaiz" x="160" y="192" name="inst_1AFD4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0" />
   </instances>
   <tiles />
   <PhysicsWorld>false</PhysicsWorld>

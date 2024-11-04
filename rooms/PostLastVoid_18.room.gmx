@@ -35,14 +35,14 @@ audio_play_music(60, 1)
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backSemi_Black" x="0" y="300" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backBlackTrees1" x="0" y="216" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backBlackTrees2" x="120" y="205" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backBlackTrees3" x="280" y="275" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="back_DeadAnimal1" x="0" y="337" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="back_DeadAnimal2" x="50" y="336" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="backSemi_Black" x="0" y="300" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="backBlackTrees1" x="0" y="216" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="backBlackTrees2" x="120" y="205" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="backBlackTrees3" x="280" y="275" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="back_DeadAnimal1" x="0" y="337" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="back_DeadAnimal2" x="50" y="336" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
   </backgrounds>
   <views>
     <view visible="-1" objName="PostLV_Exetior" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />

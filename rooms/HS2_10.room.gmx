@@ -61,14 +61,14 @@ instance_create(128, 2064, TeleportRing)
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="-1" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backHS2Back" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="backHS2Back" x="0" y="0" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
   </backgrounds>
   <views>
     <view visible="-1" objName="Pers_Obj" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />

@@ -109,14 +109,14 @@ view_object[0] = TTS1E_Cam
     <yoffset>0</yoffset>
   </makerSettings>
   <backgrounds>
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backTS1_1" x="0" y="20" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backTS1_3" x="0" y="110" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="-1" foreground="0" name="backTS1_5" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
-    <background visible="0" foreground="0" name="" x="0" y="0" htiled="0" vtiled="0" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="backTS1_1" x="0" y="20" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="backTS1_3" x="0" y="110" htiled="True" vtiled="False" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="-1" foreground="0" name="backTS1_5" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
+    <background visible="0" foreground="0" name="" x="0" y="0" htiled="True" vtiled="True" hspeed="0" vspeed="0" stretch="0" />
   </backgrounds>
   <views>
     <view visible="-1" objName="TTS1E_Cam" xview="0" yview="0" wview="320" hview="260" xport="0" yport="0" wport="640" hport="480" hborder="160" vborder="130" hspeed="-1" vspeed="-1" />
