@@ -464,12 +464,12 @@ if keyboard_check_pressed(vk_return)
     <event eventtype="8" enumb="0">
       <action>
         <libid>1</libid>
-        <id>605</id>
-        <kind>0</kind>
+        <id>603</id>
+        <kind>7</kind>
         <userelative>0</userelative>
         <isquestion>0</isquestion>
-        <useapplyto>0</useapplyto>
-        <exetype>0</exetype>
+        <useapplyto>-1</useapplyto>
+        <exetype>2</exetype>
         <functionname></functionname>
         <codestring></codestring>
         <whoName>self</whoName>
@@ -3363,6 +3363,7 @@ if (global.RUS_Mode == 1)
         }
     }
 }
+
 </string>
           </argument>
         </arguments>
