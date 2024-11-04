@@ -1,5 +1,5 @@
 This decomp is NOT in a working state now, and probably never will
 
-Some rooms are missing, ALL audio functions are obsolete
+Some audio is missing, reimplementing it will be a pain
 
 good luck using this
