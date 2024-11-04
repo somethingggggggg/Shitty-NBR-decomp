@@ -3,15 +3,17 @@
   <Configs name="configs">
     <Config>Configs\Default</Config>
   </Configs>
-  <NewExtensions/>
+  <NewExtensions>
+    <extension index="0">extensions\GMSched</extension>
+  </NewExtensions>
   <sounds name="sound">
+    <sound>sound\SFX_DataSelect</sound>
+    <sound>sound\SFX_TitleScreen</sound>
+    <sound>sound\SFX_SEGA</sound>
+    <sound>sound\SFX_GreenHill</sound>
+    <sound>sound\SFX_Spindash</sound>
     <sound>sound\SFX_Jump</sound>
     <sound>sound\SFX_Rolling</sound>
-    <sound>sound\SFX_Spindash</sound>
-    <sound>sound\SFX_GreenHill</sound>
-    <sound>sound\SFX_SEGA</sound>
-    <sound>sound\SFX_TitleScreen</sound>
-    <sound>sound\SFX_DataSelect</sound>
     <sound>sound\SFX_DataMove</sound>
     <sound>sound\SFX_Laugh</sound>
     <sound>sound\SFX_Spring</sound>
