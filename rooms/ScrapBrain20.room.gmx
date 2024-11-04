@@ -20,7 +20,7 @@ if (audio_is_playing(SFX_ScrapBrain) == 0)
 {
     audio_stop_all()
     audio_stop_music()
-    audio_play_music(69, 1)
+    audio_play_music(SFX_ScrapBrain, 1)
 }
 global.MetalEggman_GU = 0
 global.Knuckles_GU = 1

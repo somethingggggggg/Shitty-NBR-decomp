@@ -176,7 +176,7 @@ room_goto(TitleScreen_3)
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>audio_play_music(4, 0)
+            <string>audio_play_music(SFX_SEGA, 0)
 image_speed = 0
 image_index = 24
 alarm[0] = 300

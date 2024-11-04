@@ -18,7 +18,7 @@
     {
         audio_stop_all()
         audio_stop_music()
-        audio_play_music(3, 1)
+        audio_play_music(SFX_GreenHill, 1)
     }
 }
 if (GOD_OBJECT.BloodyHill == 1)
@@ -27,7 +27,7 @@ if (GOD_OBJECT.BloodyHill == 1)
     {
         audio_stop_all()
         audio_stop_music()
-        audio_play_music(16, 1)
+        audio_play_music(SFX_Hill, 1)
     }
 }
 GOD_OBJECT.Tails_Level = 1

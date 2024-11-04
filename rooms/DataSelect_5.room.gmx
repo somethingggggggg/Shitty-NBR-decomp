@@ -10,7 +10,7 @@
   <persistent>0</persistent>
   <colour>0</colour>
   <showcolour>-1</showcolour>
-  <code>audio_play_music(6, 1)
+  <code>audio_play_music(SFX_DataSelect, 1)
 background_hspeed[0] = -0.5
 with (GOD_OBJECT)
 {
