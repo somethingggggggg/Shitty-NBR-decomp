@@ -3,7 +3,7 @@
   <type>0</type>
   <xorig>-9</xorig>
   <yorigin>-5</yorigin>
-  <colkind>0</colkind>
+  <colkind>1</colkind>
   <coltolerance>0</coltolerance>
   <sepmasks>0</sepmasks>
   <bboxmode>0</bboxmode>
@@ -19,5 +19,5 @@
   <For3D>0</For3D>
   <width>32</width>
   <height>32</height>
-  <frames/>
+  <frames />
 </sprite>
